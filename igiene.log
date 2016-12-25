@@ -1,0 +1,1882 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.16)  25 DEC 2016 22:18
+entering extended mode
+**./Igiene.tex
+(Igiene.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(svmult.cls
+Document Class: svmult 2007/06/25 v5.4 
+Springer Verlag global LaTeX document class for multi authored books
+Class Springer-SVMult Info: extra/valid Springer sub-package 
+(Springer-SVMult)           not found in option list - using "global" style.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\svparindent=\dimen103
+\bibindent=\dimen104
+\betweenumberspace=\dimen105
+\headlineindent=\dimen106
+\minitoc=\write3
+\c@minitocdepth=\count87
+\c@chapter=\count88
+\mottowidth=\dimen107
+\svitemindent=\dimen108
+\verbatimindent=\dimen109
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 963.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 964.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 965.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 966.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 967.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 968.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 969.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 970.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 971.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 972.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 973.
+\tocchpnum=\dimen110
+\tocsecnum=\dimen111
+\tocsectotal=\dimen112
+\tocsubsecnum=\dimen113
+\tocsubsectotal=\dimen114
+\tocsubsubsecnum=\dimen115
+\tocsubsubsectotal=\dimen116
+\tocparanum=\dimen117
+\tocparatotal=\dimen118
+\tocsubparanum=\dimen119
+\foot@parindent=\dimen120
+\spthmsep=\dimen121
+\c@theorem=\count89
+\c@case=\count90
+\c@conjecture=\count91
+\c@corollary=\count92
+\c@definition=\count93
+\c@example=\count94
+\c@exercise=\count95
+\c@lemma=\count96
+\c@note=\count97
+\c@problem=\count98
+\c@property=\count99
+\c@proposition=\count100
+\c@question=\count101
+\c@solution=\count102
+\c@remark=\count103
+\c@prob=\count104
+\instindent=\dimen122
+\figgap=\dimen123
+\bildb@x=\box26
+\figcapgap=\dimen124
+\tabcapgap=\dimen125
+\c@merk=\count105
+\c@@inst=\count106
+\c@@auth=\count107
+\c@auco=\count108
+\instindent=\dimen126
+\authrun=\box27
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box28
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@contribution=\count109
+LaTeX Info: Redefining \abstract on input line 2320.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip43
+\fb@frw=\dimen127
+\fb@frh=\dimen128
+\FrameRule=\dimen129
+\FrameSep=\dimen130
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mathdesign.sty"
+Package: mathdesign 2013/08/29 v2.31 Math Design Project
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbch.cfg")
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbch.sty"
+Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
+n Project)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdfont.def"
+File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdsffont.def"
+File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdttfont.def"
+File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+\symmdcal=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mdcal' in version `bold'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 97.
+\symmdscr=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `mdscr' in version `bold'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/xmdeuf/m/n --> U/xmdeuf/b/n on input line 110.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/mdbch/m/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/mdbch/m/it on input line 122.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/mdbch/m/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 126.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/mdbch/b/it on input line 127.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/mdbch/b/n on input line 128.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/b/n on input line 129.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/mdbch/m/n --> OT1/mdbch/m/n on input line 131.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 132.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/mdbch/m/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 135.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/mdbch/b/n --> OT1/mdbch/b/n on input line 137.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 138.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/mdbch/b/it on input line 139.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/b/n on input line 140.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 141.
+\symlettersupright=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
+(Font)                  OML/mdbch/m/n --> OML/mdbch/b/n on input line 144.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count111
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 18
+6.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\ot1mdbch.fd"
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 186.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
+Now handling font encoding MDA ...
+... no UTF-8 mapping file for font encoding MDA
+\symmathdesignA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
+(Font)                  MDA/mdbch/m/n --> MDA/mdbch/b/n on input line 491.
+Now handling font encoding MDB ...
+... no UTF-8 mapping file for font encoding MDB
+\symmathdesignB=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
+(Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
+\@emptytoks=\toks23
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
+\rulethickness=\skip44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+mdbch on input line 105
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\t1mdbch.fd"
+File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
+)
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 105.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\type1cm\type1cm.sty"
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count112
+\mult@box=\box29
+\multicol@leftmargin=\dimen133
+\c@unbalance=\count113
+\c@collectmore=\count114
+\doublecol@number=\count115
+\multicoltolerance=\count116
+\multicolpretolerance=\count117
+\full@width=\dimen134
+\page@free=\dimen135
+\premulticols=\dimen136
+\postmulticols=\dimen137
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen138
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count118
+\c@finalcolumnbadness=\count119
+\last@try=\dimen139
+\multicolovershoot=\dimen140
+\multicolundershoot=\dimen141
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count120
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks24
+\footnotemargin=\dimen142
+\c@pp@next@reset=\count121
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-italian\italian.ldf"
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count122
+\U@D=\dimen143
+)
+\it@lettering=\count123
+\it@doublequoteactive=\count124
+\it@ISOcompliance=\count125
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count126
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count127
+\Gm@cntv=\count128
+\c@Gm@tempcnt=\count129
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks25
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count130
+\float@exts=\toks26
+\float@box=\box55
+\@float@everytoks=\toks27
+\@floatcapt=\box56
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count131
+\c@Blindtext=\count132
+\c@blind@countparstart=\count133
+\blind@countxx=\count134
+\blindtext@numBlindtext=\count135
+\blind@countyy=\count136
+\c@blindlist=\count137
+\c@blindlistlevel=\count138
+\c@blindlist@level=\count139
+\blind@listitem=\count140
+\c@blind@listcount=\count141
+\c@blind@levelcount=\count142
+\blind@mathformula=\count143
+\blind@Mathformula=\count144
+\c@blind@randomcount=\count145
+\c@blind@randommax=\count146
+\c@blind@pangramcount=\count147
+\c@blind@pangrammax=\count148
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks28
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen157
+\WF@size=\dimen158
+\c@WF@wrappedlines=\count149
+\WF@box=\box58
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count150
+\calc@Bcount=\count151
+\calc@Adimen=\dimen159
+\calc@Bdimen=\dimen160
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count152
+\calc@Cskip=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen161
+\AM@pageheight=\dimen162
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box59
+\AM@global@opts=\toks30
+\AM@toc@title=\toks31
+\c@AM@survey=\count153
+\AM@templatesizebox=\box60
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\block.tss"
+File: block.tss 2016/03/15
+)
+\@indexfile=\write4
+\openout4 = `Igiene.idx'.
+
+
+Writing index file Igiene.idx
+(Igiene.aux)
+\openout1 = `Igiene.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 61.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 61.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdacmr.fd"
+File: mdacmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 61.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 61.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbcmr.fd"
+File: mdbcmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 61.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count154
+\scratchdimen=\dimen163
+\scratchbox=\box61
+\nofMPsegments=\count155
+\nofMParguments=\count156
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count157
+\MPscratchDim=\dimen164
+\MPnumerator=\count158
+\makeMPintoPDFobject=\count159
+\everyMPtoPDFconversion=\toks33
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Info: Redefining \it@ocap on input line 61.
+LaTeX Info: Redefining \it@ccap on input line 61.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 717.00946pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=717.00946pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-25.1381pt
+* \headheight=12.0pt
+* \headsep=12.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=90.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box62
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<igienecop.pdf, id=1, 597.50786pt x 845.04686pt>
+File: igienecop.pdf Graphic file (type pdf)
+ <use igienecop.pdf>
+Package pdftex.def Info: igienecop.pdf used on input line 62.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: igienecop.pdf Graphic file (type pdf)
+
+<use igienecop.pdf>
+Package pdftex.def Info: igienecop.pdf used on input line 62.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+ <igienecop.pdf, id=4, page=1, 597.50786pt x 845.04686pt>
+File: igienecop.pdf Graphic file (type pdf)
+
+<use igienecop.pdf, page 1>
+Package pdftex.def Info: igienecop.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: igienecop.pdf Graphic file (type pdf)
+ <use igienecop.pdf, page 1>
+Package pdftex.def Info: igienecop.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: igienecop.pdf Graphic file (type pdf)
+
+<use igienecop.pdf, page 1>
+Package pdftex.def Info: igienecop.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: igienecop.pdf Graphic file (type pdf)
+ <use igienecop.pdf, page 1>
+Package pdftex.def Info: igienecop.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: igienecop.pdf Graphic file (type pdf)
+
+<use igienecop.pdf, page 1>
+Package pdftex.def Info: igienecop.pdf, page1 used on input line 62.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+ [1
+
+ <./igienecop.pdf{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}>] [2]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 23.88496pt on input line 68.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 23.88496pt on input line 68.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 21.96893pt on input line 68.
+ (Igiene.toc
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omlmdbch.fd"
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omsmdbch.fd"
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\omxmdbch.fd"
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdamdbch.fd"
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathdesign\mdbch\mdbmdbch.fd"
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 3.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 6.72005pt on input line 3.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 82.
+ [3
+
+
+]
+[4])
+\tf@toc=\write5
+\openout5 = `Igiene.toc'.
+
+ [5] [6
+
+
+]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 13.4401pt on input line 73.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 13.4401pt on input line 73.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 73.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/b/it' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `OMS/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `OMX/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `MDB/mdbch/b/n' will be
+(Font)              scaled to size 15.3601pt on input line 73.
+LaTeX Font Info:    Font shape `MDB/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Font shape `MDB/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 73.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 10.75201pt on input line 73.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 73.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 8.16005pt on input line 73.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 4.08002pt on input line 73.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 5.712pt on input line 73.
+ [7]
+LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 83.
+ [8] (01.tex
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 19.91054pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 19.91054pt on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 18.31332pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 17.28012pt on input line 14.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 17.28012pt on input line 14.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 15.89392pt on input line 14.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 173--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--219
+
+ []
+
+[10]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 220.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 220.
+ [11]) (02.tex [12]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 12.36194pt on input line 77.
+ [13] <02/image1.png, id=96, 700.41675pt x 521.5485pt>
+File: 02/image1.png Graphic file (type png)
+
+<use 02/image1.png>
+Package pdftex.def Info: 02/image1.png used on input line 259.
+(pdftex.def)             Requested size: 409.71692pt x 305.08473pt.
+ [14 <./02/image1.png>]
+<02/image2.png, id=100, 695.59875pt x 523.9575pt>
+File: 02/image2.png Graphic file (type png)
+ <use 02/image2.png>
+Package pdftex.def Info: 02/image2.png used on input line 301.
+(pdftex.def)             Requested size: 409.71692pt x 308.61258pt.
+ [15 <./02/image2.png>] <02/image3.png, id=104, 695.59875pt x 526.3665pt>
+File: 02/image3.png Graphic file (type png)
+
+<use 02/image3.png>
+Package pdftex.def Info: 02/image3.png used on input line 372.
+(pdftex.def)             Requested size: 409.71692pt x 310.03148pt.
+ [16 <./02/image3.png>]
+<02/image4.png, id=108, 696.80325pt x 521.5485pt>
+File: 02/image4.png Graphic file (type png)
+ <use 02/image4.png>
+Package pdftex.def Info: 02/image4.png used on input line 409.
+(pdftex.def)             Requested size: 409.71692pt x 306.67638pt.
+ [17 <./02/image4.png>] <02/image5.png, id=112, 699.21225pt x 524.55975pt>
+File: 02/image5.png Graphic file (type png)
+
+<use 02/image5.png>
+Package pdftex.def Info: 02/image5.png used on input line 474.
+(pdftex.def)             Requested size: 409.71692pt x 307.38248pt.
+ <02/image6.png, id=113, 701.019pt x 526.96875pt>
+File: 02/image6.png Graphic file (type png)
+
+<use 02/image6.png>
+Package pdftex.def Info: 02/image6.png used on input line 489.
+(pdftex.def)             Requested size: 409.71692pt x 307.99806pt.
+ <02/image7.png, id=114, 700.41675pt x 523.35526pt>
+File: 02/image7.png Graphic file (type png)
+
+<use 02/image7.png>
+Package pdftex.def Info: 02/image7.png used on input line 506.
+(pdftex.def)             Requested size: 409.71692pt x 306.14162pt.
+ [18 <./02/image5.png>] [19 <./02/image6.png> <./02/image7.png>] <02/image8.png
+, id=122, 698.61pt x 525.162pt>
+File: 02/image8.png Graphic file (type png)
+ <use 02/image8.png>
+Package pdftex.def Info: 02/image8.png used on input line 543.
+(pdftex.def)             Requested size: 409.71692pt x 307.99983pt.
+
+<02/image9.png, id=123, 700.41675pt x 525.76425pt>
+File: 02/image9.png Graphic file (type png)
+ <use 02/image9.png>
+Package pdftex.def Info: 02/image9.png used on input line 555.
+(pdftex.def)             Requested size: 409.71692pt x 307.55078pt.
+
+<02/image10.png, id=124, 701.019pt x 525.162pt>
+File: 02/image10.png Graphic file (type png)
+ <use 02/image10.png>
+Package pdftex.def Info: 02/image10.png used on input line 572.
+(pdftex.def)             Requested size: 409.71692pt x 306.94208pt.
+
+<02/image11.png, id=125, 703.428pt x 525.162pt>
+File: 02/image11.png Graphic file (type png)
+ <use 02/image11.png>
+Package pdftex.def Info: 02/image11.png used on input line 582.
+(pdftex.def)             Requested size: 409.71692pt x 305.89233pt.
+
+<02/image12.png, id=126, 698.00775pt x 523.35526pt>
+File: 02/image12.png Graphic file (type png)
+ <use 02/image12.png>
+Package pdftex.def Info: 02/image12.png used on input line 593.
+(pdftex.def)             Requested size: 409.71692pt x 307.19574pt.
+
+[20 <./02/image8.png>] [21 <./02/image9.png> <./02/image10.png>]
+<02/image13.png, id=133, 696.201pt x 522.15076pt>
+File: 02/image13.png Graphic file (type png)
+ <use 02/image13.png>
+Package pdftex.def Info: 02/image13.png used on input line 609.
+(pdftex.def)             Requested size: 409.71692pt x 307.28548pt.
+
+<02/image14.png, id=134, 701.019pt x 525.162pt>
+File: 02/image14.png Graphic file (type png)
+ <use 02/image14.png>
+Package pdftex.def Info: 02/image14.png used on input line 618.
+(pdftex.def)             Requested size: 409.71692pt x 306.94208pt.
+ [22 <./02/image11.png> <./02/image12.png>] [23 <./02/image13.png> <./02/image1
+4.png>]
+<02/image15.png, id=141, 699.21225pt x 525.162pt>
+File: 02/image15.png Graphic file (type png)
+ <use 02/image15.png>
+Package pdftex.def Info: 02/image15.png used on input line 644.
+(pdftex.def)             Requested size: 409.71692pt x 307.7354pt.
+ [24 <./02/image15.png>]) (03.tex <03/image1.png, id=145, 703.428pt x 523.35526
+pt>
+File: 03/image1.png Graphic file (type png)
+
+<use 03/image1.png>
+Package pdftex.def Info: 03/image1.png used on input line 64.
+(pdftex.def)             Requested size: 318.66948pt x 237.09685pt.
+ [25] <03/image2.png, id=150, 701.019pt x 527.571pt>
+File: 03/image2.png Graphic file (type png)
+
+<use 03/image2.png>
+Package pdftex.def Info: 03/image2.png used on input line 95.
+(pdftex.def)             Requested size: 318.66948pt x 239.82784pt.
+ [26 <./03/image1.png> <./03/image2.png>]
+<03/image3.png, id=154, 700.41675pt x 523.9575pt>
+File: 03/image3.png Graphic file (type png)
+ <use 03/image3.png>
+Package pdftex.def Info: 03/image3.png used on input line 123.
+(pdftex.def)             Requested size: 318.66948pt x 238.38504pt.
+
+<03/image4.png, id=155, 703.428pt x 526.3665pt>
+File: 03/image4.png Graphic file (type png)
+ <use 03/image4.png>
+Package pdftex.def Info: 03/image4.png used on input line 140.
+(pdftex.def)             Requested size: 318.66948pt x 238.46104pt.
+ [27 <./03/image3.png>] <03/image5.png, id=159, 702.82574pt x 522.753pt>
+File: 03/image5.png Graphic file (type png)
+
+<use 03/image5.png>
+Package pdftex.def Info: 03/image5.png used on input line 204.
+(pdftex.def)             Requested size: 318.66948pt x 237.02342pt.
+ [28 <./03/image4.png> <./03/image5.png>]
+<03/image6.png, id=163, 702.2235pt x 522.753pt>
+File: 03/image6.png Graphic file (type png)
+ <use 03/image6.png>
+Package pdftex.def Info: 03/image6.png used on input line 248.
+(pdftex.def)             Requested size: 318.66948pt x 237.22284pt.
+
+<03/image7.png, id=164, 701.019pt x 525.162pt>
+File: 03/image7.png Graphic file (type png)
+ <use 03/image7.png>
+Package pdftex.def Info: 03/image7.png used on input line 264.
+(pdftex.def)             Requested size: 318.66948pt x 238.73273pt.
+ [29 <./03/image6.png>]
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 8.16005pt on input line 281.
+LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
+(Font)              scaled to size 8.16005pt on input line 282.
+ <03/image8.png, id=168, 701.019pt x 524.55975pt>
+File: 03/image8.png Graphic file (type png)
+
+<use 03/image8.png>
+Package pdftex.def Info: 03/image8.png used on input line 310.
+(pdftex.def)             Requested size: 318.66948pt x 238.45894pt.
+ <03/image9.png, id=169, 701.019pt x 525.162pt>
+File: 03/image9.png Graphic file (type png)
+
+<use 03/image9.png>
+Package pdftex.def Info: 03/image9.png used on input line 338.
+(pdftex.def)             Requested size: 318.66948pt x 238.73273pt.
+ [30 <./03/image7.png>]
+<03/image10.png, id=173, 288.423pt x 216.153pt>
+File: 03/image10.png Graphic file (type png)
+ <use 03/image10.png>
+Package pdftex.def Info: 03/image10.png used on input line 359.
+(pdftex.def)             Requested size: 318.66948pt x 238.83105pt.
+ [31 <./03/image8.png> <./03/image9.png>]
+<03/image11.png, id=178, 700.41675pt x 525.76425pt>
+File: 03/image11.png Graphic file (type png)
+ <use 03/image11.png>
+Package pdftex.def Info: 03/image11.png used on input line 396.
+(pdftex.def)             Requested size: 318.66948pt x 239.20706pt.
+
+<03/image12.png, id=179, 699.21225pt x 525.162pt>
+File: 03/image12.png Graphic file (type png)
+ <use 03/image12.png>
+Package pdftex.def Info: 03/image12.png used on input line 408.
+(pdftex.def)             Requested size: 318.66948pt x 239.34975pt.
+ [32 <./03/image10.png> <./03/image11.png>]
+<03/image13.png, id=183, 699.21225pt x 525.76425pt>
+File: 03/image13.png Graphic file (type png)
+ <use 03/image13.png>
+Package pdftex.def Info: 03/image13.png used on input line 422.
+(pdftex.def)             Requested size: 318.66948pt x 239.62422pt.
+
+[33 <./03/image12.png> <./03/image13.png>]
+<03/image14.png, id=187, 701.019pt x 526.3665pt>
+File: 03/image14.png Graphic file (type png)
+ <use 03/image14.png>
+Package pdftex.def Info: 03/image14.png used on input line 455.
+(pdftex.def)             Requested size: 318.66948pt x 239.28027pt.
+
+<03/image15.png, id=188, 701.019pt x 525.162pt>
+File: 03/image15.png Graphic file (type png)
+ <use 03/image15.png>
+Package pdftex.def Info: 03/image15.png used on input line 472.
+(pdftex.def)             Requested size: 318.66948pt x 238.73273pt.
+ [34 <./03/image14.png>] <03/image16.png, id=192, 699.21225pt x 525.162pt>
+File: 03/image16.png Graphic file (type png)
+
+<use 03/image16.png>
+Package pdftex.def Info: 03/image16.png used on input line 523.
+(pdftex.def)             Requested size: 318.66948pt x 239.34975pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--571
+
+ []
+
+[35 <./03/image15.png> <./03/image16.png>]) (04.tex
+<04/image1.png, id=196, 698.61pt x 527.571pt>
+File: 04/image1.png Graphic file (type png)
+ <use 04/image1.png>
+Package pdftex.def Info: 04/image1.png used on input line 17.
+(pdftex.def)             Requested size: 364.19667pt x 275.0308pt.
+ [36] [37 <./04/image1.png>] <04/image2.png, id=204, 701.019pt x 526.3665pt>
+File: 04/image2.png Graphic file (type png)
+
+<use 04/image2.png>
+Package pdftex.def Info: 04/image2.png used on input line 141.
+(pdftex.def)             Requested size: 364.19667pt x 273.46317pt.
+ <04/image3.png, id=205, 701.019pt x 525.162pt>
+File: 04/image3.png Graphic file (type png)
+
+<use 04/image3.png>
+Package pdftex.def Info: 04/image3.png used on input line 182.
+(pdftex.def)             Requested size: 364.19667pt x 272.8374pt.
+ [38 <./04/image2.png>]
+<04/image4.png, id=209, 699.21225pt x 525.162pt>
+File: 04/image4.png Graphic file (type png)
+ <use 04/image4.png>
+Package pdftex.def Info: 04/image4.png used on input line 225.
+(pdftex.def)             Requested size: 364.19667pt x 273.54257pt.
+ [39 <./04/image3.png> <./04/image4.png>]
+<04/image5.png, id=213, 701.019pt x 520.94624pt>
+File: 04/image5.png Graphic file (type png)
+ <use 04/image5.png>
+Package pdftex.def Info: 04/image5.png used on input line 249.
+(pdftex.def)             Requested size: 364.19667pt x 270.64719pt.
+ [40 <./04/image5.png>] [41] [42] <04/image6.png, id=223, 701.019pt x 521.5485p
+t>
+File: 04/image6.png Graphic file (type png)
+
+<use 04/image6.png>
+Package pdftex.def Info: 04/image6.png used on input line 587.
+(pdftex.def)             Requested size: 364.19667pt x 270.96007pt.
+ <04/image7.png, id=224, 701.019pt x 524.55975pt>
+File: 04/image7.png Graphic file (type png)
+
+<use 04/image7.png>
+Package pdftex.def Info: 04/image7.png used on input line 625.
+(pdftex.def)             Requested size: 364.19667pt x 272.5245pt.
+ [43 <./04/image6.png>] [44 <./04/image7.png>]
+<04/image8.png, id=232, 699.21225pt x 525.76425pt>
+File: 04/image8.png Graphic file (type png)
+ <use 04/image8.png>
+Package pdftex.def Info: 04/image8.png used on input line 790.
+(pdftex.def)             Requested size: 364.19667pt x 273.85626pt.
+) (05.tex
+LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
+(Font)              scaled to size 9.60007pt on input line 7.
+<05/image1.png, id=233, 338.76563pt x 252.945pt>
+File: 05/image1.png Graphic file (type png)
+ <use 05/image1.png>
+Package pdftex.def Info: 05/image1.png used on input line 13.
+(pdftex.def)             Requested size: 318.66948pt x 237.94974pt.
+ [45]
+<05/image2.png, id=238, 701.019pt x 522.753pt>
+File: 05/image2.png Graphic file (type png)
+ <use 05/image2.png>
+Package pdftex.def Info: 05/image2.png used on input line 28.
+(pdftex.def)             Requested size: 318.66948pt x 237.63762pt.
+ [46 <./04/image8.png> <./05/image1.png>]
+<05/image3.png, id=242, 700.41675pt x 520.94624pt>
+File: 05/image3.png Graphic file (type png)
+ <use 05/image3.png>
+Package pdftex.def Info: 05/image3.png used on input line 48.
+(pdftex.def)             Requested size: 318.66948pt x 237.01501pt.
+
+<05/image4.png, id=243, 701.019pt x 522.15076pt>
+File: 05/image4.png Graphic file (type png)
+ <use 05/image4.png>
+Package pdftex.def Info: 05/image4.png used on input line 55.
+(pdftex.def)             Requested size: 318.66948pt x 237.36385pt.
+
+<05/image5.png, id=244, 700.41675pt x 520.344pt>
+File: 05/image5.png Graphic file (type png)
+ <use 05/image5.png>
+Package pdftex.def Info: 05/image5.png used on input line 64.
+(pdftex.def)             Requested size: 318.66948pt x 236.741pt.
+ [47 <./05/image2.png> <./05/image3.png>]
+<05/image6.png, id=248, 699.21225pt x 527.571pt>
+File: 05/image6.png Graphic file (type png)
+ <use 05/image6.png>
+Package pdftex.def Info: 05/image6.png used on input line 79.
+(pdftex.def)             Requested size: 318.66948pt x 240.44768pt.
+ [48 <./05/image4.png> <./05/image5.png>] [49 <./05/image6.png>]
+<05/image7.png, id=256, 701.019pt x 525.162pt>
+File: 05/image7.png Graphic file (type png)
+ <use 05/image7.png>
+Package pdftex.def Info: 05/image7.png used on input line 162.
+(pdftex.def)             Requested size: 318.66948pt x 238.73273pt.
+ [50 <./05/image7.png>] <05/image8.png, id=261, 701.62125pt x 524.55975pt>
+File: 05/image8.png Graphic file (type png)
+
+<use 05/image8.png>
+Package pdftex.def Info: 05/image8.png used on input line 238.
+(pdftex.def)             Requested size: 318.66948pt x 238.25084pt.
+ [51 <./05/image8.png>]
+<05/image9.png, id=265, 699.8145pt x 526.3665pt>
+File: 05/image9.png Graphic file (type png)
+ <use 05/image9.png>
+Package pdftex.def Info: 05/image9.png used on input line 317.
+(pdftex.def)             Requested size: 318.66948pt x 239.68185pt.
+ [52 <./05/image9.png>] <05/image10.png, id=269, 701.019pt x 522.753pt>
+File: 05/image10.png Graphic file (type png)
+
+<use 05/image10.png>
+Package pdftex.def Info: 05/image10.png used on input line 379.
+(pdftex.def)             Requested size: 318.66948pt x 237.63762pt.
+ [53] <05/image11.png, id=273, 697.4055pt x 523.9575pt>
+File: 05/image11.png Graphic file (type png)
+
+<use 05/image11.png>
+Package pdftex.def Info: 05/image11.png used on input line 465.
+(pdftex.def)             Requested size: 318.66948pt x 239.42438pt.
+ <05/image12.png, id=274, 696.80325pt x 521.5485pt>
+File: 05/image12.png Graphic file (type png)
+
+<use 05/image12.png>
+Package pdftex.def Info: 05/image12.png used on input line 472.
+(pdftex.def)             Requested size: 318.66948pt x 238.52252pt.
+ <05/image13.png, id=275, 701.019pt x 525.162pt>
+File: 05/image13.png Graphic file (type png)
+
+<use 05/image13.png>
+Package pdftex.def Info: 05/image13.png used on input line 500.
+(pdftex.def)             Requested size: 318.66948pt x 238.73273pt.
+ [54 <./05/image10.png>] [55 <./05/image11.png> <./05/image12.png>] <05/image14
+.png, id=283, 700.41675pt x 522.15076pt>
+File: 05/image14.png Graphic file (type png)
+
+<use 05/image14.png>
+Package pdftex.def Info: 05/image14.png used on input line 556.
+(pdftex.def)             Requested size: 318.66948pt x 237.56303pt.
+ [56 <./05/image13.png> <./05/image14.png>]
+<05/image15.png, id=287, 700.41675pt x 520.94624pt>
+File: 05/image15.png Graphic file (type png)
+ <use 05/image15.png>
+Package pdftex.def Info: 05/image15.png used on input line 621.
+(pdftex.def)             Requested size: 318.66948pt x 237.01501pt.
+
+[57 <./05/image15.png>] <05/image16.png, id=291, 699.8145pt x 522.753pt>
+File: 05/image16.png Graphic file (type png)
+
+<use 05/image16.png>
+Package pdftex.def Info: 05/image16.png used on input line 658.
+(pdftex.def)             Requested size: 227.62206pt x 170.0283pt.
+ <05/image17.png, id=292, 698.61pt x 521.5485pt>
+File: 05/image17.png Graphic file (type png)
+
+<use 05/image17.png>
+Package pdftex.def Info: 05/image17.png used on input line 668.
+(pdftex.def)             Requested size: 227.62206pt x 169.93098pt.
+ [58 <./05/image16.png> <./05/image17.png>]
+<05/image18.png, id=296, 701.019pt x 523.35526pt>
+File: 05/image18.png Graphic file (type png)
+ <use 05/image18.png>
+Package pdftex.def Info: 05/image18.png used on input line 680.
+(pdftex.def)             Requested size: 318.66948pt x 237.91139pt.
+) (06.tex <06/image1.jpeg, id=297, 3276.24pt x 1842.885pt>
+File: 06/image1.jpeg Graphic file (type jpg)
+ <use 06/image1.jpeg>
+Package pdftex.def Info: 06/image1.jpeg used on input line 29.
+(pdftex.def)             Requested size: 364.19667pt x 204.8551pt.
+
+Overfull \hbox (4.45004pt too wide) in paragraph at lines 52--72
+[][] 
+ []
+
+[59 <./05/image18.png>] <06/image2.jpg, id=301, 704.6325pt x 417.05812pt>
+File: 06/image2.jpg Graphic file (type jpg)
+
+<use 06/image2.jpg>
+Package pdftex.def Info: 06/image2.jpg used on input line 143.
+(pdftex.def)             Requested size: 318.66948pt x 188.6099pt.
+ [60 <./06/image1.jpeg>]
+<06/image3.jpg, id=305, 671.50874pt x 231.86626pt>
+File: 06/image3.jpg Graphic file (type jpg)
+ <use 06/image3.jpg>
+Package pdftex.def Info: 06/image3.jpg used on input line 148.
+(pdftex.def)             Requested size: 318.66948pt x 110.035pt.
+ [61 <./06/image2.jpg> <./06/image3.jpg>] [62]
+<06/image4.jpeg, id=313, 3276.24pt x 1842.885pt>
+File: 06/image4.jpeg Graphic file (type jpg)
+ <use 06/image4.jpeg>
+Package pdftex.def Info: 06/image4.jpeg used on input line 365.
+(pdftex.def)             Requested size: 318.66948pt x 179.23767pt.
+ [63 <./06/image4.jpeg>] [64] <06/image5.jpeg, id=321, 3276.24pt x 1842.885pt>
+File: 06/image5.jpeg Graphic file (type jpg)
+
+<use 06/image5.jpeg>
+Package pdftex.def Info: 06/image5.jpeg used on input line 510.
+(pdftex.def)             Requested size: 318.66948pt x 179.23767pt.
+ [65 <./06/image5.jpeg>]
+<06/image6.jpeg, id=325, 3276.24pt x 1842.885pt>
+File: 06/image6.jpeg Graphic file (type jpg)
+ <use 06/image6.jpeg>
+Package pdftex.def Info: 06/image6.jpeg used on input line 635.
+(pdftex.def)             Requested size: 318.66948pt x 179.23767pt.
+
+<06/image7.jpeg, id=326, 3276.24pt x 1842.885pt>
+File: 06/image7.jpeg Graphic file (type jpg)
+ <use 06/image7.jpeg>
+Package pdftex.def Info: 06/image7.jpeg used on input line 669.
+(pdftex.def)             Requested size: 318.66948pt x 179.23767pt.
+ [66]
+[67 <./06/image6.jpeg> <./06/image7.jpeg>]
+<06/image8.jpeg, id=334, 3276.24pt x 1842.885pt>
+File: 06/image8.jpeg Graphic file (type jpg)
+ <use 06/image8.jpeg>
+Package pdftex.def Info: 06/image8.jpeg used on input line 803.
+(pdftex.def)             Requested size: 318.66948pt x 179.23767pt.
+ [68]
+[69 <./06/image8.jpeg>] [70]) (07.tex [71]
+Overfull \hbox (12.9879pt too wide) in paragraph at lines 73--86
+[]\T1/mdbch/m/n/10 Panencefalite scle-ro-san-te su-ba-cu-ta (SSPE) con le-ta-li
+-tà to-ta-le (100%) ma mol-to ra-ra 0,5-3 ca-si/milione/anno
+ []
+
+<07/image1.jpeg, id=347, 1166.3575pt x 1553.805pt>
+File: 07/image1.jpeg Graphic file (type jpg)
+ <use 07/image1.jpeg>
+Package pdftex.def Info: 07/image1.jpeg used on input line 111.
+(pdftex.def)             Requested size: 364.19667pt x 485.15982pt.
+
+[72] [73 <./07/image1.jpeg>]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 235.
+ [74] [75] [76] [77] [78]
+<07/image2.jpeg, id=371, 1478.52374pt x 1971.365pt>
+File: 07/image2.jpeg Graphic file (type jpg)
+ <use 07/image2.jpeg>
+Package pdftex.def Info: 07/image2.jpeg used on input line 678.
+(pdftex.def)             Requested size: 364.19667pt x 485.59062pt.
+
+[79] [80 <./07/image2.jpeg>]
+<07/image3.jpeg, id=379, 2329.70375pt x 1307.88625pt>
+File: 07/image3.jpeg Graphic file (type jpg)
+ <use 07/image3.jpeg>
+Package pdftex.def Info: 07/image3.jpeg used on input line 762.
+(pdftex.def)             Requested size: 364.19667pt x 204.4565pt.
+
+[81] <07/image4.jpeg, id=383, 1478.52374pt x 1971.365pt>
+File: 07/image4.jpeg Graphic file (type jpg)
+ <use 07/image4.jpeg>
+Package pdftex.def Info: 07/image4.jpeg used on input line 845.
+(pdftex.def)             Requested size: 364.19667pt x 485.59062pt.
+
+[82 <./07/image3.jpeg>] [83 <./07/image4.jpeg>] [84] [85]
+Overfull \hbox (12.84338pt too wide) in paragraph at lines 1068--1068
+|\T1/phv/b/n/18 12.12 Pro-fi-las-si po-st espo-si-zio-ne con im-mu-no-glo-bu-li
+-ne (VZIG)| 
+ []
+
+) (08.tex [86] [87] [88] [89] [90] [91] [92] [93] [94]
+<08/image1.jpg, id=425, 183.68625pt x 191.9672pt>
+File: 08/image1.jpg Graphic file (type jpg)
+ <use 08/image1.jpg>
+Package pdftex.def Info: 08/image1.jpg used on input line 845.
+(pdftex.def)             Requested size: 136.57462pt x 142.74185pt.
+
+<08/image2.jpg, id=426, 343.2825pt x 208.52907pt>
+File: 08/image2.jpg Graphic file (type jpg)
+ <use 08/image2.jpg>
+Package pdftex.def Info: 08/image2.jpg used on input line 850.
+(pdftex.def)             Requested size: 182.09486pt x 110.61214pt.
+ [95 <./08/image1.jpg> <./08/image2.jpg>] [96]
+<08/image3.jpg, id=433, 596.2275pt x 407.27156pt>
+File: 08/image3.jpg Graphic file (type jpg)
+ <use 08/image3.jpg>
+Package pdftex.def Info: 08/image3.jpg used on input line 1072.
+(pdftex.def)             Requested size: 364.19667pt x 248.77707pt.
+ [97]
+[98 <./08/image3.jpg>] [99]) (09.tex [100] [101] [102] [103] [104] [105]
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 711--716
+
+ []
+
+[107] [108] [109]) (10.tex [110]
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--94
+
+ []
+
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 162--170
+
+ []
+
+[112] [113] [114]
+Underfull \hbox (badness 10000) in paragraph at lines 431--441
+
+ []
+
+[115] [116]
+Underfull \hbox (badness 10000) in paragraph at lines 594--607
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--607
+
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 742--753
+
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 830--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--879
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--879
+
+ []
+
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 885--894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 951--959
+
+ []
+
+[120]) (11.tex [121] [122] <11/image1.jpeg, id=517, 501.875pt x 354.32375pt>
+File: 11/image1.jpeg Graphic file (type jpg)
+
+<use 11/image1.jpeg>
+Package pdftex.def Info: 11/image1.jpeg used on input line 162.
+(pdftex.def)             Requested size: 136.57462pt x 96.4202pt.
+ <11/image2.png, id=518, 591.71063pt x 288.3272pt>
+File: 11/image2.png Graphic file (type png)
+
+<use 11/image2.png>
+Package pdftex.def Info: 11/image2.png used on input line 200.
+(pdftex.def)             Requested size: 136.57462pt x 66.54703pt.
+ <11/image3.jpeg, id=519, 431.6125pt x 349.305pt>
+File: 11/image3.jpeg Graphic file (type jpg)
+
+<use 11/image3.jpeg>
+Package pdftex.def Info: 11/image3.jpeg used on input line 212.
+(pdftex.def)             Requested size: 136.57462pt x 110.52733pt.
+ [123 <./11/image1.jpeg> <./11/image2.png>] [124 <./11/image3.jpeg>] [125] <11/
+image4.png, id=529, 852.18375pt x 522.95375pt>
+File: 11/image4.png Graphic file (type png)
+
+<use 11/image4.png>
+Package pdftex.def Info: 11/image4.png used on input line 430.
+(pdftex.def)             Requested size: 136.57462pt x 83.80995pt.
+ [126 <./11/image4.png>] [127]
+Overfull \hbox (5.25096pt too wide) in paragraph at lines 607--608
+[]\T1/mdbch/m/it/10 apparente: \T1/mdbch/m/n/10 fe-ri-te ac-ci-den-ta-li, tos-s
+i-co-di-pen-den-ti, emo-tra-sfu-sio-na-le (po-trem-mo de-pen-nar-la, ri-schio 0
+.002%) 
+ []
+
+<11/image5.png, id=538, 852.18375pt x 522.95375pt>
+File: 11/image5.png Graphic file (type png)
+ <use 11/image5.png>
+Package pdftex.def Info: 11/image5.png used on input line 637.
+(pdftex.def)             Requested size: 136.57462pt x 83.80995pt.
+ [128 <./11/image5.png>]) (12.tex [129] [130] [131] [132]
+<12/image1.png, id=555, 879.285pt x 323.2075pt>
+File: 12/image1.png Graphic file (type png)
+ <use 12/image1.png>
+Package pdftex.def Info: 12/image1.png used on input line 426.
+(pdftex.def)             Requested size: 136.57462pt x 50.20021pt.
+ [133 <./12/image1.png>] [134] <12/image2.png, id=563, 963.6pt x 722.7pt>
+File: 12/image2.png Graphic file (type png)
+
+<use 12/image2.png>
+Package pdftex.def Info: 12/image2.png used on input line 585.
+(pdftex.def)             Requested size: 136.57462pt x 102.42342pt.
+ [135 <./12/image2.png>]
+File: 02/image3.png Graphic file (type png)
+ <use 02/image3.png>
+Package pdftex.def Info: 02/image3.png used on input line 695.
+(pdftex.def)             Requested size: 318.66948pt x 241.13559pt.
+ [136]
+Underfull \hbox (badness 10000) in paragraph at lines 790--802
+
+ []
+
+[137] [138] [139]
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1022
+
+ []
+
+[140]) [141] (Igiene.aux) ) 
+Here is how much of TeX's memory you used:
+ 8013 strings out of 493334
+ 110544 string characters out of 3139249
+ 207169 words of memory out of 3000000
+ 11233 multiletter control sequences out of 15000+200000
+ 99407 words of font info for 137 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,18n,48p,847b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontnam
+e/texnansi.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:
+/Program Files/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/bitstrea/charter/bchri8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+mathdesign/mdbch/md-chb8t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesi
+gn/mdbch/md-chbi8t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbc
+h/md-chr7y.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr
+8t.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chri8t.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Igiene.pdf (141 pages, 20807233 bytes).
+PDF statistics:
+ 629 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 416 words of extra memory for PDF output out of 10000 (max. 10000000)
+

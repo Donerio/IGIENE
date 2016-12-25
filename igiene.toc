@@ -1,0 +1,257 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {title}{Dispensa di Igiene, Sanit\IeC {\`a} Pubblica e Politiche della Salute - 1\textsuperscript {o} parziale}{7}
+\authcount {1}
+\contentsline {author}{Gruppo Sigfied 2.0}{7}
+\contentsline {section}{\numberline {1}LEZIONE INTRODUTTIVA AL CORSO INTEGRATO DI IGIENE E POLITICHE DELLA SALUTE}{9}
+\contentsline {subsection}{\numberline {1.1}IL PROGRAMMA}{9}
+\contentsline {subsection}{\numberline {1.2}INTRODUZIONE}{9}
+\contentsline {paragraph}{lo stato di salute}{11}
+\contentsline {paragraph}{La sanit\IeC {\`a} pubblica}{11}
+\contentsline {subsection}{\numberline {1.3}COME SI SVOLGER\IeC {\`a} L'ESAME DI IGIENE E SANITA' PUBBLICA}{11}
+\contentsline {section}{\numberline {2}Fonti dei dati, indicatori sanitari, sorveglianza}{12}
+\contentsline {subsection}{\numberline {2.1}Cronaca}{12}
+\contentsline {subsection}{\numberline {2.2}Fonti dei dati}{13}
+\contentsline {subsubsection}{\numberline {2.2.1}Epidemiologia}{13}
+\contentsline {paragraph}{Fonte di dati epidemiologici}{13}
+\contentsline {paragraph}{Notifica delle malattie infettive}{15}
+\contentsline {paragraph}{Registri di patologia}{15}
+\contentsline {paragraph}{Reti sentinella}{16}
+\contentsline {subsection}{\numberline {2.3}INDICATORI SANITARI}{17}
+\contentsline {subsection}{\numberline {2.4}Sistemi di sorveglianza sanitaria }{20}
+\contentsline {section}{\numberline {3}2a lezione di epidemiologia metodologica}{25}
+\contentsline {subsection}{\numberline {3.1}Cronaca}{25}
+\contentsline {subsection}{\numberline {3.2}Misure di frequenza di malattia}{27}
+\contentsline {subsubsection}{\numberline {3.2.1}Misure epidemiologiche descrittive}{32}
+\contentsline {subsection}{\numberline {3.3}Misure di effetto}{34}
+\contentsline {section}{\numberline {4}Disegni di Studio}{36}
+\contentsline {subsection}{\numberline {4.1}La ricerca scientifica}{36}
+\contentsline {subsubsection}{\numberline {4.1.1}La ricerca epidemiologica}{36}
+\contentsline {paragraph}{Epidemiologia }{37}
+\contentsline {paragraph}{Disegni di studio}{37}
+\contentsline {subparagraph}{Classificazione dei disegni di studio}{38}
+\contentsline {subparagraph}{Studi osservazionali }{38}
+\contentsline {subparagraph}{ODDS RATIO }{43}
+\contentsline {subparagraph}{Studi Sperimentali}{44}
+\contentsline {subparagraph}{Randomized controller trials }{44}
+\contentsline {paragraph}{Risultati dei disegni di studio }{45}
+\contentsline {section}{\numberline {5}Raccomandazioni o Linee Guida}{45}
+\contentsline {subsection}{\numberline {5.1}Medicina basata sulle Evidenze}{46}
+\contentsline {section}{\numberline {6}Errori in epidemiologia: BIAS e CONFONDIMENTO}{48}
+\contentsline {subsection}{\numberline {6.1}Errore Sistematico}{49}
+\contentsline {paragraph}{Bias di Selezione}{49}
+\contentsline {paragraph}{Bias di Informazione}{50}
+\contentsline {subsection}{\numberline {6.2}Confondimento}{53}
+\contentsline {subsection}{\numberline {6.3}Errore Random}{53}
+\contentsline {section}{\numberline {7}Lo sviluppo di un farmaco}{53}
+\contentsline {subsection}{\numberline {7.1}Criteri per una corretta sperimentazione clinica sui farmaci}{54}
+\contentsline {subsection}{\numberline {7.2}Outcome o End Points}{57}
+\contentsline {subsection}{\numberline {7.3}Megatrials}{57}
+\contentsline {paragraph}{MAGNESIO NELL'INFARTO MIOCARDICO: MEGATRIAL}{58}
+\contentsline {section}{\numberline {8}Epidemiologia, patogenesi e prevenzione di alcune malattie infettive: difterite, tetano e pertosse}{59}
+\contentsline {subsection}{\numberline {8.1}Difterite}{62}
+\contentsline {subsubsection}{\numberline {8.1.1}Epidemiologia}{62}
+\contentsline {subsubsection}{\numberline {8.1.2}Modalit\IeC {\`a} di trasmissione}{63}
+\contentsline {subsubsection}{\numberline {8.1.3}Modalit\IeC {\`a} di trasmissione e contagio}{63}
+\contentsline {subsubsection}{\numberline {8.1.4}Clinica}{64}
+\contentsline {subsubsection}{\numberline {8.1.5}Prevenzione e profilassi}{64}
+\contentsline {subsection}{\numberline {8.2}Tetano}{66}
+\contentsline {subsubsection}{\numberline {8.2.1}Epidemiologia}{66}
+\contentsline {subsubsection}{\numberline {8.2.2}Modalit\IeC {\`a} di contagio e clinica}{67}
+\contentsline {subsubsection}{\numberline {8.2.3}Prevenzione e profilassi}{68}
+\contentsline {subsection}{\numberline {8.3}Pertosse}{69}
+\contentsline {subsubsection}{\numberline {8.3.1}Clinica}{70}
+\contentsline {subsubsection}{\numberline {8.3.2}Modalit\IeC {\`a} di trasmissione e contagio}{70}
+\contentsline {subsubsection}{\numberline {8.3.3}Prevenzione e profilassi}{71}
+\contentsline {section}{\numberline {9}Morbillo}{71}
+\contentsline {subsection}{\numberline {9.1}Caratteristiche e Cenni clinici}{71}
+\contentsline {subsection}{\numberline {9.2}Andamento della malattia}{72}
+\contentsline {subsection}{\numberline {9.3}Epidemiologia e Profilassi}{72}
+\contentsline {subsection}{\numberline {9.4}Sorgente d'infezione}{73}
+\contentsline {subsection}{\numberline {9.5}Prevenzione}{74}
+\contentsline {subsection}{\numberline {9.6}Immunoprofilassi Attiva}{74}
+\contentsline {subsection}{\numberline {9.7}Indicazioni alla vaccinazione}{74}
+\contentsline {subsection}{\numberline {9.8}La strategia vaccinale in Italia}{74}
+\contentsline {subsection}{\numberline {9.9}Effetti Collaterali}{75}
+\contentsline {subsection}{\numberline {9.10}Precauzioni e Controindicazioni}{75}
+\contentsline {subsection}{\numberline {9.11}Immunoprofilassi Passiva}{76}
+\contentsline {section}{\numberline {10}Rosolia}{76}
+\contentsline {subsection}{\numberline {10.1}Caratteristiche del patogeno}{76}
+\contentsline {subsection}{\numberline {10.2}Storia naturale dell'infezione}{76}
+\contentsline {subsection}{\numberline {10.3}Principali malformazioni e danni}{77}
+\contentsline {subsection}{\numberline {10.4}Criteri per correlare alla rosolia un'infezione congenita o una sindrome congenita}{77}
+\contentsline {subsection}{\numberline {10.5}Accertamento diagnostico}{77}
+\contentsline {subsection}{\numberline {10.6}Epidemiologia}{78}
+\contentsline {subsection}{\numberline {10.7}Serbatoi di infezione}{78}
+\contentsline {subsection}{\numberline {10.8}Modalit\IeC {\`a} di trasmissione}{78}
+\contentsline {subsection}{\numberline {10.9}Profilassi}{78}
+\contentsline {subsection}{\numberline {10.10}Vaccino}{78}
+\contentsline {subsection}{\numberline {10.11}Strategia vaccinale (dal 1972)}{79}
+\contentsline {subsection}{\numberline {10.12}Controindicazioni}{79}
+\contentsline {subsection}{\numberline {10.13}Effetti collaterali}{79}
+\contentsline {section}{\numberline {11}Parotite}{79}
+\contentsline {subsection}{\numberline {11.1}Agente eziologico}{79}
+\contentsline {subsection}{\numberline {11.2}Patogenesi}{80}
+\contentsline {subsection}{\numberline {11.3}Definizione di caso}{80}
+\contentsline {subsection}{\numberline {11.4}Localizzazioni extrasalivari}{81}
+\contentsline {subsection}{\numberline {11.5}Complicanze}{81}
+\contentsline {subsection}{\numberline {11.6}Diagnosi di laboratorio}{81}
+\contentsline {subsection}{\numberline {11.7}Epidemiologia}{81}
+\contentsline {subsection}{\numberline {11.8}Prevenzione}{81}
+\contentsline {subsection}{\numberline {11.9}Controindicazioni e precauzioni al vaccino}{82}
+\contentsline {section}{\numberline {12}Virus Varicella Zoster}{82}
+\contentsline {subsection}{\numberline {12.1}Cenni clinici}{83}
+\contentsline {subsection}{\numberline {12.2}Gruppi a rischio aumentato di VZV}{84}
+\contentsline {subsection}{\numberline {12.3}Complicanze}{84}
+\contentsline {subsection}{\numberline {12.4}Accertamento diagnostico}{84}
+\contentsline {subsection}{\numberline {12.5}Epidemiologia}{84}
+\contentsline {subsection}{\numberline {12.6}Epidemiologia}{84}
+\contentsline {subsection}{\numberline {12.7}Profilassi}{85}
+\contentsline {subsection}{\numberline {12.8}Vaccino}{85}
+\contentsline {subsection}{\numberline {12.9}PNPV 2016-2018}{85}
+\contentsline {subsection}{\numberline {12.10}Reazioni avverse\IeC {\`\i }}{85}
+\contentsline {subsection}{\numberline {12.11}Controindicazioni alla vaccinazione}{85}
+\contentsline {subsection}{\numberline {12.12}Profilassi post esposizione con immunoglobuline (VZIG)}{86}
+\contentsline {section}{\numberline {13}Lo Zooster}{86}
+\contentsline {subsection}{\numberline {13.1}Aspetti clinici}{86}
+\contentsline {subsection}{\numberline {13.2}Accertamento diagnostico}{87}
+\contentsline {subsection}{\numberline {13.3}Epidemiologia}{87}
+\contentsline {subsection}{\numberline {13.4}Modalit\IeC {\`a} di trasmissione}{87}
+\contentsline {subsection}{\numberline {13.5}Prevenzione}{87}
+\contentsline {section}{\numberline {14}Citomegalovirus}{88}
+\contentsline {subsection}{\numberline {14.1}Eziologia}{88}
+\contentsline {subsection}{\numberline {14.2}Aspetti clinici}{88}
+\contentsline {subsection}{\numberline {14.3}Trasmissione}{90}
+\contentsline {subsection}{\numberline {14.4}Profilassi}{90}
+\contentsline {subsection}{\numberline {14.5}Vaccino}{91}
+\contentsline {subsection}{\numberline {14.6}Correlazioni importanti}{91}
+\contentsline {section}{\numberline {15}Toxoplasmosi}{91}
+\contentsline {subsection}{\numberline {15.1}Ciclo Biologico}{91}
+\contentsline {subsection}{\numberline {15.2}Aspetti clinici}{92}
+\contentsline {subsection}{\numberline {15.3}Epidemiologia}{93}
+\contentsline {subsection}{\numberline {15.4}La diagnosi}{93}
+\contentsline {subsection}{\numberline {15.5}La prevenzione}{93}
+\contentsline {section}{\numberline {16}Infezioni che portano a meningite}{94}
+\contentsline {subsection}{\numberline {16.1}L'infezione meningococcica}{94}
+\contentsline {subsubsection}{\numberline {16.1.1}Eziologia}{95}
+\contentsline {subsubsection}{\numberline {16.1.2}Diagnosi di laboratorio}{96}
+\contentsline {subsubsection}{\numberline {16.1.3}Epidemiologia}{96}
+\contentsline {subsubsection}{\numberline {16.1.4}Trasmissione}{97}
+\contentsline {subsubsection}{\numberline {16.1.5}Sierogruppi nei vari territori}{97}
+\contentsline {subsubsection}{\numberline {16.1.6}La prevenzione}{98}
+\contentsline {paragraph}{La profilassi}{98}
+\contentsline {paragraph}{Strategia vaccinale in Italia}{99}
+\contentsline {paragraph}{Chemioprofilassi}{99}
+\contentsline {section}{\numberline {17}Infezione pneumococcica, H. Influenzae tipo B, infezioni respiratorie acute}{100}
+\contentsline {subsection}{\numberline {17.1}Infezione pneumococcica}{100}
+\contentsline {subsubsection}{\numberline {17.1.1}Generalit\IeC {\`a}}{100}
+\contentsline {subsubsection}{\numberline {17.1.2}Eziologia: Streptococcus pneumoniae}{101}
+\contentsline {subsubsection}{\numberline {17.1.3}Fattori di rischio o cause predisponenti}{101}
+\contentsline {subsubsection}{\numberline {17.1.4}Epidemiologia}{102}
+\contentsline {subsubsection}{\numberline {17.1.5}Farmaco resistenza}{102}
+\contentsline {subsubsection}{\numberline {17.1.6}Prevenzione: profilassi}{103}
+\contentsline {subsection}{\numberline {17.2}Haemophilus Influenzae}{104}
+\contentsline {subsubsection}{\numberline {17.2.1}Generalit\IeC {\`a}}{104}
+\contentsline {subsubsection}{\numberline {17.2.2}Eziologia: Hib (Haemophilus Influenzae di tipo B)}{104}
+\contentsline {subsubsection}{\numberline {17.2.3}Patogenesi}{104}
+\contentsline {subsubsection}{\numberline {17.2.4}Profilassi immunitaria - vaccinazione}{105}
+\contentsline {subsection}{\numberline {17.3}Infezioni respiratorie acute (ARI)}{106}
+\contentsline {subsubsection}{\numberline {17.3.1}Generalit\IeC {\`a}}{106}
+\contentsline {subsubsection}{\numberline {17.3.2}Eziologia}{107}
+\contentsline {subsection}{\numberline {17.4}Influenza virus}{107}
+\contentsline {subsubsection}{\numberline {17.4.1}Eziologia: Virus influenzale}{108}
+\contentsline {subsubsection}{\numberline {17.4.2}Classificazione dei virus influenzali}{109}
+\contentsline {paragraph}{Nomenclatura dei virus influenzali}{109}
+\contentsline {subsubsection}{\numberline {17.4.3}Ecologia dei virus influenzali}{110}
+\contentsline {section}{\numberline {18}INFEZIONI DELL'APPARATO RESPIRATORIO}{111}
+\contentsline {subsection}{\numberline {18.1}INFLUENZA}{111}
+\contentsline {subsubsection}{\numberline {18.1.1}Ecologia del virus dell'influenza.}{111}
+\contentsline {subsubsection}{\numberline {18.1.2}Pandemie}{111}
+\contentsline {subsubsection}{\numberline {18.1.3}Storia Naturale}{112}
+\contentsline {subsubsection}{\numberline {18.1.4}Vie di trasmissione}{112}
+\contentsline {subsubsection}{\numberline {18.1.5}Complicanze}{112}
+\contentsline {subsubsection}{\numberline {18.1.6}Terapia}{113}
+\contentsline {subsubsection}{\numberline {18.1.7}Prevenzione}{113}
+\contentsline {paragraph}{Vaccino}{113}
+\contentsline {subparagraph}{Obiettivi della vaccinazione}{114}
+\contentsline {subparagraph}{Eventi avversi}{115}
+\contentsline {subparagraph}{Polemiche sul vaccino}{115}
+\contentsline {paragraph}{ Chemioprofilassi}{115}
+\contentsline {subsection}{\numberline {18.2}TUBERCOLOSI}{115}
+\contentsline {subsubsection}{\numberline {18.2.1}Contesto attuale}{115}
+\contentsline {subsubsection}{\numberline {18.2.2}Epidemiologia}{116}
+\contentsline {subsubsection}{\numberline {18.2.3}Il micobatterio tubercocolare}{116}
+\contentsline {subsubsection}{\numberline {18.2.4}Patogenesi dell'infezione}{116}
+\contentsline {subsubsection}{\numberline {18.2.5}Diagnosi}{117}
+\contentsline {paragraph}{Test tubercolinico (o PTD)}{117}
+\contentsline {paragraph}{Quantiferon test}{118}
+\contentsline {subsubsection}{\numberline {18.2.6}Epidemiologia e distribuzione dell'infezione}{118}
+\contentsline {subsubsection}{\numberline {18.2.7}Traguardi imposti}{118}
+\contentsline {paragraph}{Situazione in Italia}{119}
+\contentsline {subsubsection}{\numberline {18.2.8}Trasmissione}{119}
+\contentsline {subsubsection}{\numberline {18.2.9}Profilassi}{120}
+\contentsline {subsubsection}{\numberline {18.2.10}Prevenzione e Terapia}{120}
+\contentsline {paragraph}{Vaccino}{120}
+\contentsline {paragraph}{Chemioprofilassi}{121}
+\contentsline {section}{\numberline {19}Rischio biologico delle professioni sanitarie}{121}
+\contentsline {subsection}{\numberline {19.1}Virus dell'epatite B}{121}
+\contentsline {subsubsection}{\numberline {19.1.1}Epidemiologia}{121}
+\contentsline {subsubsection}{\numberline {19.1.2}Aspetti micorbiologici}{122}
+\contentsline {subsubsection}{\numberline {19.1.3}Storia naturale dell'infezione}{122}
+\contentsline {subsubsection}{\numberline {19.1.4}Clinica}{122}
+\contentsline {subsubsection}{\numberline {19.1.5}Patogenesi}{123}
+\contentsline {subsubsection}{\numberline {19.1.6}Studio degli Ag}{123}
+\contentsline {subsubsection}{\numberline {19.1.7}Diagnosi}{123}
+\contentsline {subsubsection}{\numberline {19.1.8}Trasmissione}{124}
+\contentsline {paragraph}{Soggetti a rischio}{124}
+\contentsline {subsubsection}{\numberline {19.1.9}Prevenzione}{125}
+\contentsline {paragraph}{Profilassi}{125}
+\contentsline {subsection}{\numberline {19.2}Virus dell'epatite delta}{126}
+\contentsline {subsubsection}{\numberline {19.2.1}Trasmissione}{126}
+\contentsline {subsubsection}{\numberline {19.2.2}Epidemiologia}{126}
+\contentsline {subsubsection}{\numberline {19.2.3}Clinica}{127}
+\contentsline {subsubsection}{\numberline {19.2.4}Prevenzione}{127}
+\contentsline {subsection}{\numberline {19.3}Virus dell'epatite C}{127}
+\contentsline {subsubsection}{\numberline {19.3.1}Epidemiologia}{127}
+\contentsline {subsubsection}{\numberline {19.3.2}Aspetti microbiologici}{127}
+\contentsline {subsubsection}{\numberline {19.3.3}Clinica}{127}
+\contentsline {subsubsection}{\numberline {19.3.4}Diagnosi}{128}
+\contentsline {subsubsection}{\numberline {19.3.5}Trasmissione}{128}
+\contentsline {paragraph}{Fattori di rischio}{128}
+\contentsline {subsubsection}{\numberline {19.3.6}Prevenzione}{128}
+\contentsline {section}{\numberline {20}Epidemiologia e prevenzione AIDS}{129}
+\contentsline {subsection}{\numberline {20.1}Caratteristiche e Cenni clinici}{129}
+\contentsline {subsection}{\numberline {20.2}Storia naturale della malattia}{130}
+\contentsline {subsection}{\numberline {20.3}Accertamento diagnostico}{130}
+\contentsline {subsection}{\numberline {20.4}Sorgente d'infezione}{130}
+\contentsline {paragraph}{Modalit\IeC {\`a} di trasmissione}{131}
+\contentsline {subsection}{\numberline {20.5}Epidemiologia}{131}
+\contentsline {paragraph}{ASPETTI ATTUALI DELL'EPIDEMIOLOGIA}{131}
+\contentsline {subsubsection}{\numberline {20.5.1}Epidemiologia in Italia}{131}
+\contentsline {subsection}{\numberline {20.6}Prevenzione}{132}
+\contentsline {subsubsection}{\numberline {20.6.1}Prevenzione Mirata Primaria}{132}
+\contentsline {subsubsection}{\numberline {20.6.2}Prevenzione Mirata Secondaria}{133}
+\contentsline {subsubsection}{\numberline {20.6.3}Farmaci per HIV}{133}
+\contentsline {subsection}{\numberline {20.7}Prevenzione vaccinale}{134}
+\contentsline {section}{\numberline {21}Epatite A (HAV)}{134}
+\contentsline {subsection}{\numberline {21.1}Caratteristiche e Cenni clinici}{134}
+\contentsline {subsection}{\numberline {21.2}Storia naturale della malattia}{135}
+\contentsline {subsection}{\numberline {21.3}Vie di trasmissione}{135}
+\contentsline {subsection}{\numberline {21.4}Epidemiologia}{135}
+\contentsline {subsubsection}{\numberline {21.4.1}Epidemiologia in Italia}{136}
+\contentsline {subsection}{\numberline {21.5}Prevenzione}{136}
+\contentsline {subsubsection}{\numberline {21.5.1}Immunoprofilassi attiva: il Vaccino per HAV}{137}
+\contentsline {paragraph}{Strategia vaccinale}{137}
+\contentsline {subsubsection}{\numberline {21.5.2}Immunoprofilassi Passiva}{138}
+\contentsline {section}{\numberline {22}Epatite E (HEV)}{138}
+\contentsline {subsection}{\numberline {22.1}Caratteristiche e Cenni clinici }{138}
+\contentsline {subsection}{\numberline {22.2}Epidemiologia e Profilassi}{138}
+\contentsline {subsection}{\numberline {22.3}Prevenzione}{138}
+\contentsline {section}{\numberline {23}Febbre Tifoide}{139}
+\contentsline {subsection}{\numberline {23.1}Caratteristiche e Cenni clinici}{139}
+\contentsline {subsection}{\numberline {23.2}Storia naturale della malattia }{139}
+\contentsline {subsection}{\numberline {23.3}Epidemiologia e Profilassi}{139}
+\contentsline {subsection}{\numberline {23.4}Sorgente d'infezione}{140}
+\contentsline {subsection}{\numberline {23.5}Prevenzione}{140}
+\contentsline {subsubsection}{\numberline {23.5.1}Immunoprofilassi Attiva}{140}
+\contentsline {paragraph}{Indicazioni per la vaccinazione:}{141}
