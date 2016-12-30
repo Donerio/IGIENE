@@ -1,77 +1,4 @@
-\documentclass[]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-
-\date{}
-
-\begin{document}
-
-25/11/16
-
-Prof. Pasquarella
-
-S: Ludovica Franco
-
-\textbf{HACCP (sezione)}
+\section{HACCP e Nutrizione}
 
 L'HACCP ha rivoluzionato l'approccio igienico nei confronti degli
 alimenti. Cosa si intende per igiene degli alimenti? L'igiene tutela la
@@ -80,7 +7,7 @@ del 2004 come ``l'insieme di tutte quelle misure necessarie a garantire
 la sicurezza di un alimento, quindi controllarne i pericoli e che sia
 idoneo al consumo, cioè che non rechi danno''.
 
-\textbf{ALIMENTI COME VEICOLO DI INFEZIONE (sottosezione)}
+\subsection{Alimenti come veicolo di infezione}
 
 Ricordiamo che gli alimenti possono essere un veicolo di infezione.
 Esistono due categorie di patologie legate agli alimenti, ciascuna con
@@ -88,7 +15,6 @@ caratteristiche peculiari:
 
 \begin{itemize}
 \item
-  \begin{quote}
   \textbf{Malattie infettive a trasmissione fecale-orale} in cui gli
   \emph{alimenti sono dei veicoli efficienti ma non indispensabili},
   infatti sono malattie che possono essere trasmesse anche in altro
@@ -96,21 +22,16 @@ caratteristiche peculiari:
   questa superficie e mi porto le mani alla bocca la trasmissione
   avviene lo stesso. Quindi nelle malattie a trasmissione fecale-orale
   l'alimento costituisce un veicolo importante.
-  \end{quote}
-\end{itemize}
 
 In genere hanno un lungo periodo d'incubazione (per es. epatite A,
 Poliomielite, Colera)
 
-\begin{itemize}
 \item
-  \begin{quote}
   \textbf{Tossinfezioni alimentari} (per es. tossinfezione da
   stafilococco, botulismo). \emph{L'alimento è indispensabile perché in
   esso il microrganismo si moltiplica}; sono necessarie alte cariche
   microbiche e sono trasmesse solo da alimenti. Il periodo di
   incubazione è breve, anche di 2 ore per esempio.
-  \end{quote}
 \end{itemize}
 
 L'igiene alimentare quindi mira a controllare il pericolo. Che cos'è il
@@ -125,35 +46,27 @@ essere presente il pericolo, ma affinché ci sia danno servono
 l'esposizione e la vulnerabilità del soggetto (e anche una certa carica
 microbica).
 
-\textbf{TIPI DI CONTAMINAZIONE (sottosezione)}
+\subsection{Tipi di contaminazione}
 
 La contaminazione degli alimenti può avvenire in diversi momenti del
 processo che va dalla produzione al consumo.
 
 \begin{itemize}
 \item
-  \begin{quote}
   \textbf{Contaminazione primaria}: presente nell'alimento all'origine;
   è la materia prima ad essere contaminata (esempi: microrganismi nelle
   cozze, salmonelle nelle uova, contaminanti nella carne di pollo, nella
   frutta e nella verdura\ldots{}).
-  \end{quote}
 \item
-  \begin{quote}
   \textbf{Contaminazione secondaria}: si verifica durante il processo di
   lavorazione dell'alimento (per esempio quando le persone contaminano
   con Staphylococcus aureus le superfici durante le lavorazioni).
-  \end{quote}
 \item
-  \begin{quote}
   \textbf{Contaminazione terziaria}: avviene durante la conservazione
   del prodotto.
-  \end{quote}
 \item
-  \begin{quote}
   \textbf{Contaminazione quaternaria}: avviene durante la distribuzione,
   al momento del consumo (per esempio nelle mense).
-  \end{quote}
 \end{itemize}
 
 Quindi è necessario l'igiene nelle materie prime, ma anche in tutto il
@@ -166,37 +79,29 @@ sono elementi sfruttati nella conservazione degli alimenti:
 
 \begin{itemize}
 \item
-  \begin{quote}
   \textbf{Temperatura}: i microrganismi patogeni si sono ben adattati
   alle temperature del corpo umano (microrganismi mesofili), ma alcuni
   sopravvivono anche in frigorifero (per esempio le muffe)
-  \end{quote}
 \item
-  \begin{quote}
   \textbf{Ph}: è altresì importante; i microrganismi hanno infatti un ph
   ottimale di crescita (in genere tra 6 e 7.5) e sopravvivono poco a
   valori molto bassi (eccezion fatta per muffe e lieviti che tollerano
   ph anche molto acidi)
-  \end{quote}
 \item
-  \begin{quote}
   \textbf{Acqua libera}: è necessaria al microrganismo per crescere e
   svilupparsi (il parametro va da 0 a 1). Se diminuisco la presenza di
   acqua viene compromessa la sopravvivenza e la moltiplicazione del
   microrganismo (per questo le procedure come la liofilizzazione o
   l'essicazione sono metodi di conservazione molto efficaci)
-  \end{quote}
 \item
-  \begin{quote}
   \textbf{Ossigeno}: presenza o assenza. Molti microrganismi richiedono
   ossigeno per sopravvivere (e ciò spiega l'efficacia della
   conservazione sottovuoto per esempio), ma esistono anche microrganismi
   anaerobi , per esempio Clostridium botulinum, che in assenza di
   ossigeno trova il suo habitat ideale.
-  \end{quote}
 \end{itemize}
 
-\textbf{STORIA HACCP (sottosezione)}
+\subsection{Storia HACCP}
 
 La contaminazione, ovvero la presenza di un pericolo nell'alimento, è
 associata ad un possibile danno per la salute, con problemi economici e
@@ -225,7 +130,7 @@ protezione degli alimenti'', entrata poi in Europa con la direttiva
 tempo per essere recepite dagli stati membri, a differenza dei
 regolamenti che divengono immediatamente operativi). L'Italia ha
 impiegato 4 anni per recepire tale direttiva, ufficializzandola nel 1997
-con il Decreto Legislativo n°155, che ha introdotto l' HACCP.
+con il Decreto Legislativo n\textsuperscript{o}155, che ha introdotto l' HACCP.
 
 Cosa viene espresso in questo decreto? Innanzitutto si definisce
 ``\emph{industria alimentare''} chiunque manipoli alimenti durante un
@@ -244,7 +149,10 @@ si possono trovare tutte le regole da applicare in queste fasi.
 Qui sotto è mostrato un esempio di diagramma di flusso in uso in una
 mensa-ristorante.
 
-\includegraphics[width=5.71698in,height=3.69577in]{media/image2.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image2.jpeg}
+	\end{figure}
 
 Quindi il responsabile deve individuare i punti critici nel diagramma di
 flusso a livello dei quali possono essere messi in atto interventi
@@ -256,59 +164,48 @@ Deve quindi descrivere tutta la sua attività e garantire che siano
 mantenute e attuate tutte le procedure avvalendosi dei principi su cui è
 basato l'HACCP.
 
-\textbf{PRINCIPI HACCP (sottosezione)}
+\subsection{Principi HACCP}
 
 Il responsabile deve essere consapevole del suo ruolo e:
 
 \begin{itemize}
 \item
-  \begin{quote}
   IDENTIFICARE I PERICOLI, ovvero quali microrganismi o sostanze
   potrebbero contaminare quello specifico alimento, e valutare i RISCHI.
-  \end{quote}
 \item
-  \begin{quote}
   IDENTIFICARE I PUNTI CRITICI DI CONTROLLO, definiti come momenti in
   cui può avvenire la contaminazione ed in cui si può applicare un
   intervento di prevenzione per evitare il danno (per esempio cottura e
   refrigerazione che possono evitare la contaminazione)
-  \end{quote}
 \item
-  \begin{quote}
   STABILIRE I LIMITI CRITICI, valori che devono essere rispettati
   affinché ogni punto critico sia sotto controllo.
-  \end{quote}
 \item
-  \begin{quote}
   STABILIRE LE PROCEDURE DI MONITORAGGIO: deve essere tutto scritto nel
   manuale di autocontrollo. Pianificare quindi i controlli, la modalità,
   la periodicità e tutte le procedure conseguenti.
-  \end{quote}
 \item
-  \begin{quote}
   INDIVIDUARE LE AZIONI CORRETTIVE qualora i limiti non vengano
   rispettati (per esempio buttare l'alimento).
-  \end{quote}
 \item
-  \begin{quote}
   STABILIRE PROCEDURE DI VERIFICA DI TUTTO IL SISTEMA per accertarsi che
   tutto quello che è stato stabilito funzioni (per esempio il controllo
   dell' alimento finito). La verifica viene fatta ovviamente a
   periodicità predefinite.
-  \end{quote}
 \item
-  \begin{quote}
   STABILIRE PROCEDURE DI DOCUMENTAZIONE E REGISTRAZIONE: scrivere tutto
   quello che si fa, fare tutto quello che si scrive, monitorare tutto
   quello che si fa e documentare tutto ciò che si fa.
-  \end{quote}
 \end{itemize}
 
 Il responsabile dell'industria deve inoltre garantire la FORMAZIONE
 degli operatori, poiché tutti devono collaborare per la sicurezza degli
 alimenti.
 
-\includegraphics[width=3.24036in,height=3.29822in]{media/image3.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image3.jpeg}
+	\end{figure}
 
 L'HACCP è nato nell'industria alimentare, ma ora è trasferita in tutti i
 processi (per esempio nei processi di sterilizzazione, nell'industria
@@ -330,7 +227,7 @@ organolettica} (riferita alla percezione dei nostri sensi) e la
 \emph{qualità nutrizionale}, in quanto l'alimento deve apportare tutti i
 nutrienti necessari per la vita.
 
-\textbf{ALIMENTAZIONE E NUTRIZIONE (sezione)}
+\subsection{Alimentazione e nutrizione}
 
 L'\textbf{alimentazione} è l'assunzione del cibo per soddisfare fame e
 sete; la \textbf{nutrizione} è invece l'utilizzo da parte dell'organismo
@@ -352,9 +249,12 @@ energetiche, plastiche e regolatrici).
 
 L'energia che deriva dagli alimenti viene espressa in \textbf{Kcal} =
 quantità di calore necessaria per elevare la temperatura di 1Kg di acqua
-di 1 °C (da 14.5 a 15,5 gradi).
+di 1 \textsuperscript{o}C (da 14.5 a 15,5 gradi).
 
-\includegraphics[width=5.16418in,height=0.80163in]{media/image4.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image4.png}
+	\end{figure}
 
 Ognuno di questi macronutrienti ha una funzione specifica.
 
@@ -364,7 +264,10 @@ l'avanzare dell'età, quindi gli anziani hanno un fabbisogno inferiore.
 Ecco alcuni esempi di consumo energetico nelle varie attività
 quotidiane:
 
-\includegraphics[width=5.64092in,height=3.38806in]{media/image5.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image5.jpeg}
+	\end{figure}
 
 Come calcolare un adeguato apporto calorico?
 
@@ -372,7 +275,10 @@ LARN = Livelli di Assunzione di Riferimento di Nutrienti e di energia
 (quarta revisione del 2014). Qui ci sono le indicazioni precise sul
 fabbisogno calorico.
 
-\includegraphics[width=5.29959in,height=7.32836in]{media/image6.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image6.png}
+	\end{figure}
 
 Da questa tabella, ad esempio, possiamo capire quale sia il fabbisogno
 energetico per i maschi e per le femmine dai 18-29 anni e dai 30-59
@@ -387,7 +293,10 @@ di prevenire le patologie associate al sovrappeso: ad un determinato
 indice si ritrova per entrambi i sessi la più bassa mortalità e quindi
 la più bassa incidenza di patologie.
 
-\includegraphics[width=4.24748in,height=4.03731in]{media/image7.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image7.png}
+	\end{figure}
 
 Una dieta equilibrata deve fornire non solo un adeguato apporto
 calorico, ma deve anche esserci un adeguato apporto di tutti i macro e
@@ -404,36 +313,32 @@ Sono quindi stati individuati 5 gruppi di alimenti:
 
 \begin{itemize}
 \item
-  \begin{quote}
   Funzionalità energetica dei cereali
-  \end{quote}
 \item
-  \begin{quote}
   Frutta e ortaggi per le vitamine e minerali (vario)
-  \end{quote}
 \item
-  \begin{quote}
   Latte e derivati per i lipidi, proteine e vit. liposolubili
-  \end{quote}
 \item
-  \begin{quote}
   Carne pesce, uova e legumi per proteine e grassi ( legumi + cereali =
   quota proteica di elevato valore biologico)
-  \end{quote}
 \item
-  \begin{quote}
   Grassi da condimento
-  \end{quote}
 \end{itemize}
 
-\includegraphics[width=6.77021in,height=6.04478in]{media/image8.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image8.png}
+	\end{figure}
 
 Oltre all'apporto calorico totale e alla diversità dei nutrienti c'è un
 altro aspetto importante: la cronologia dell'assunzione degli alimenti.
 Essi devono essere distribuiti durante tutto il giorno, come sotto
 riportato.
 
-\includegraphics[width=6.68819in,height=0.78056in]{media/image9.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image9.png}
+	\end{figure}
 
 Viene pertanto evidenziata l'importanza della colazione.
 
@@ -443,19 +348,15 @@ salute.
 Non c'è integratore alimentare che possa sostituire l'apporto degli
 alimenti.
 
-\textbf{DANNI DA ALIMENTAZIONE SCORRETTA (sottosezione)}
+\subsection{Danni da alimentazione scorretta}
 
 Quali possono essere i danni che derivano da un'alimentazione scorretta?
 
 \begin{itemize}
 \item
-  \begin{quote}
   Danni in eccesso
-  \end{quote}
 \item
-  \begin{quote}
   Danni in difetto
-  \end{quote}
 \end{itemize}
 
 Questi danni possono riguardare tutte le componenti oppure solo una
@@ -472,26 +373,16 @@ Quali sono i più frequenti errori alimentari?
 
 \begin{itemize}
 \item
-  \begin{quote}
   eccesso di introito generale, già cominciando da bambini;
-  \end{quote}
 \item
-  \begin{quote}
   eccesso in particolare di grassi, alimenti proteici , zuccheri
   semplici;
-  \end{quote}
 \item
-  \begin{quote}
   eccesso di sale;
-  \end{quote}
 \item
-  \begin{quote}
   eccesso di alcol;
-  \end{quote}
 \item
-  \begin{quote}
   carenza di fibre vegetali.
-  \end{quote}
 \end{itemize}
 
 Nel grafico sottostante sono riportati dati del 1975; sull'asse delle
@@ -499,7 +390,10 @@ ordinate viene indicato il valore in percentuale del fabbisogno calorico
 giornaliero. Già in quegli anni vi erano numerosi Paesi con apporto
 calorico molto maggiore dei livelli raccomandati.
 
-\includegraphics[width=3.64802in,height=4.20729in]{media/image10.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image10.jpeg}
+	\end{figure}
 
 Dati registrati successivamente indicano un ulteriore aumento
 dell'introito calorico; la quota che è aumentata è la \% di proteine e
@@ -518,27 +412,19 @@ e avvenga invece una merenda abbondante, scarso apporto di frutta e
 verdura ed eccesso di bevande gassate, il tutto associato ad una
 mancanza di attività fisica.
 
-\textbf{PATOLOGIE ASSOCIATE A SCORRETTA ALIMENTAZIONE (sottosezione)}
+\subsection{Patologie associate a scorretta alimentazione}
 
 \begin{itemize}
 \item
-  \begin{quote}
   Obesità
-  \end{quote}
 \item
-  \begin{quote}
   Patologie cardiovascolari (per esempio ipertensione legata al consumo
   di sale)
-  \end{quote}
 \item
-  \begin{quote}
   Diabete (eccesso di zuccheri)
-  \end{quote}
 \item
-  \begin{quote}
   Tumore colon (ridotto consumo di fibre, carenza di vitamine
   antiossidanti)
-  \end{quote}
 \end{itemize}
 
 La scarsa assunzione di frutta e verdura è responsabile del 20\% dei
@@ -554,7 +440,7 @@ tumori allo stomaco, esofago, polmoni, ecc.).
 La prima conseguenza di una scorretta alimentazione con elevato apporto
 di proteine e lipidi è il sovrappeso.
 
-\textbf{SOVRAPPESO E OBESITA' (sottosottosezione)}
+\subsubsection{Sovrappeso e obesità}
 
 Oggi sovrappeso e obesità sono diventati un'epidemia a livello globale;
 quello che preoccupa di più è che siano presenti nell'infanzia perché
@@ -577,24 +463,23 @@ Perché?
 
 \begin{itemize}
 \item
-  \begin{quote}
   Motivi culturali: si ritiene che il bambino cicciotto sia in buona
   salute.
-  \end{quote}
 \item
-  \begin{quote}
   Ridotta attività fisica: si utilizzano molto i mezzi per spostarsi a
   causa delle ridotte infrastrutture (per esempio piste ciclabili)
   oppure per la ridotta sicurezza nello spostarsi a piedi o in
   bicicletta.
-  \end{quote}
 \end{itemize}
 
 Vi è anche un'associazione tra eccesso ponderale e istruzione e tra
 eccesso ponderale e condizioni economiche (per es. frutta e verdura
 costano di più, le merendine senza grassi idrogenati costano di più).
 
-\includegraphics[width=4.28472in,height=1.32639in]{media/image11.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image11.png}
+	\end{figure}
 
 Non basta essere consapevole di cosa fare per essere in salute ed
 evitare i danni, ma posso trovarmi in situazioni dove non ho alimenti
@@ -632,7 +517,7 @@ Per esempio nel 60 \% delle morti premature per cause cardiovascolari si
 sovrappeso e patologie quali tumore della mammella, anche se non se ne
 conosce il meccanismo alla base.
 
-\textbf{MALATTIE CARDIOVASCOLARI (sottosottosezione)}
+\subsubsection{Malattie cardiovascolari}
 
 L'impatto è enorme in termini di morbosità per quanto riguarda la
 cattiva alimentazione su questo tipo di patologie.
@@ -640,7 +525,10 @@ cattiva alimentazione su questo tipo di patologie.
 Di solito pensiamo subito alla Finlandia per quanto riguarda questo
 argomento.
 
-\includegraphics[width=5.22909in,height=2.43941in]{media/image12.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image12.jpeg}
+	\end{figure}
 
 Dati epidemiologici mostrano che in Finlandia è molto al di sopra della
 media europea. Qual è stato il problema? Questo paese è stato un modello
@@ -669,35 +557,23 @@ cardiovascolare nel giro di 10 anni, in base ai seguenti fattori:
 
 \begin{itemize}
 \item
-  \begin{quote}
   Sesso
-  \end{quote}
 \item
-  \begin{quote}
   Diabete
-  \end{quote}
 \item
-  \begin{quote}
   Fumo
-  \end{quote}
 \item
-  \begin{quote}
   Età
-  \end{quote}
 \item
-  \begin{quote}
   Pressione sistolica
-  \end{quote}
 \item
-  \begin{quote}
   Colesterolemia
-  \end{quote}
 \end{itemize}
 
 Alcuni sono associati ad un'alimentazione non corretta. In base a questi
 dati la persona viene inserita in una delle sei categorie di rischio.
 
-\textbf{PATOLOGIE ONCOLOGICHE (sottosottosezione )}
+\subsubsection{Patologie oncologiche}
 
 Per quanto riguarda i fattori di rischio delle patologie oncologiche
 troviamo l'alimentazione, che è responsabile per il 30-35\%, e poi
@@ -708,33 +584,25 @@ troviamo l'alcol e l'obesità.
 
 \begin{itemize}
 \item
-  \begin{quote}
   Cancro del colon 70\%
-  \end{quote}
 \item
-  \begin{quote}
   Cancro prostata 75\%
-  \end{quote}
 \item
-  \begin{quote}
   Cancro mammella 50\%
-  \end{quote}
 \item
-  \begin{quote}
   Endometrio 50\%
-  \end{quote}
 \end{itemize}
 
 È stato stimato anche il contributo di obesità ed alcol per patologie
 oncologiche a carico di fegato, orofaringe, mammella, apparato digerente
 e respiratorio superiore.
 
-\textbf{\\
-}
+\paragraph{Alcol}
 
-\textbf{ALCOL(paragrafo)}
-
-\includegraphics[width=3.19444in,height=2.26023in]{media/image13.gif}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image13.png}
+	\end{figure}
 
 1 unità alcolica = 12grammi di alcol = 1 boccale di birra = 1 bicchiere
 di vino = 1 bicchierino di superalcolico = 7 kcal/g x 12g = 84kcal
@@ -744,7 +612,10 @@ l'assunzione di alcol.
 
 N.B. nel sesso femminile il metabolismo alcolico è più lento.
 
-\includegraphics[width=3.86111in,height=2.31255in]{media/image14.gif}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{20/image14.png}
+	\end{figure}
 
 Ricordiamo che il limite di legge è 0,50g/l per poter mettersi alla
 guida.
@@ -762,10 +633,7 @@ bevitori).
 L'alcol permesso è al massimo 2 bicchieri di vino a giornata per il
 sesso maschile e 1 per il sesso femminile.
 
-\textbf{\\
-}
-
-\textbf{PREVENZIONE (sottosezione)}
+\paragraph{Prevenzione}
 
 Come sappiamo il primo passo è la sorveglianza, il monitoraggio, cioè
 capire la situazione. In Italia è stata avviata la sorveglianza relativa
@@ -806,17 +674,11 @@ Obiettivi:
 
 \begin{itemize}
 \item
-  \begin{quote}
   Promuovere i comportamenti salutari
-  \end{quote}
 \item
-  \begin{quote}
   Favorire l'alimentazione sana nella ristorazione
-  \end{quote}
 \item
-  \begin{quote}
   Informare i consumatori
-  \end{quote}
 \end{itemize}
 
 Per ciascuno di questi obiettivi sono indicati gli attori: il Ministero
@@ -826,29 +688,17 @@ Promozione di:
 
 \begin{itemize}
 \item
-  \begin{quote}
   Allattamento al seno
-  \end{quote}
 \item
-  \begin{quote}
   Sostenere la dieta mediterranea
-  \end{quote}
 \item
-  \begin{quote}
   Prevenire e monitorare i disturbi alimentari
-  \end{quote}
 \item
-  \begin{quote}
   Consumi salutari
-  \end{quote}
 \item
-  \begin{quote}
   Promuovere le risorse economiche
-  \end{quote}
 \item
-  \begin{quote}
   Informare i consumatori e tutelare i minori
-  \end{quote}
 \end{itemize}
 
 Sono tutti compiti delle varie istituzioni; quindi gli interventi per
@@ -864,25 +714,15 @@ fondamentali?
 
 \begin{itemize}
 \item
-  \begin{quote}
   Più cereali, legumi, ortaggi e frutta
-  \end{quote}
 \item
-  \begin{quote}
   Limitare i grassi
-  \end{quote}
 \item
-  \begin{quote}
   Limitare il consumo di sale
-  \end{quote}
 \item
-  \begin{quote}
   Limitare gli zuccheri semplici
-  \end{quote}
 \item
-  \begin{quote}
   Limitare l'alcol e assumerlo in quantità molto controllata
-  \end{quote}
 \end{itemize}
 
 Nell'ambito del progetto GUADAGNARE SALUTE vediamo per esempio
@@ -906,5 +746,3 @@ della scuola e dell'educazione dei bambini nella prima fascia di età. La
 scuola è un ambito privilegiato perché i bambini sono in un'età in cui è
 più facile fare proprie abitudini corrette, utilizzando gli insegnanti
 come veicolo di informazione.
-
-\end{document}
