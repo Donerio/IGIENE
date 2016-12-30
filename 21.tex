@@ -1,79 +1,6 @@
-\documentclass[]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+\section{Prevenzione e screening}
 
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-
-\date{}
-
-\begin{document}
-
-Lezione 30-11-2016
-
-Argomento: SSN, prevenzione e screening
-
-Docente: professor Signorelli
-
-Sbobinatore: Marina Agrusta
-
-Sezione: Politiche di prevenzione
+\subsection{Prevenzione}
 
 Prestazioni erogate dal SSN gratuitamente o con compartecipazione di
 spesa (ticket) :
@@ -112,54 +39,54 @@ QUIZ
 Rientrano tra le prestazioni attualmente erogate gratuitamente dal SSN a
 tutti i cittadini:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
+\begin{itemize}
+\item[1.]
   Medico di famiglia
-\item
+\item[2.]
   Pediatra di libera scelta
-\item
+\item[3.]
   Ricoveri ospedalieri
-\item
+\item[4.]
   Day hospital
-\end{enumerate}
+\end{itemize}
 
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\item
+\begin{itemize}
+\item[a.]
   1
-\item
+\item[b.]
   1,2
-\item
+\item[c.]
   1,2,3,4
-\item
+\item[d.]
   1,3,4
-\item
+\item[e.]
   1,2,3
-\end{enumerate}
+\end{itemize}
 
 Ovviamente la risposta è la c, perché se ci fossero state le cure
 omeopatiche, odontoiatriche e estetiche allora potevamo avere dei dubbi
 
 Il problema più rilevante della sanità pubblica italiana è attualmente:
 
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\item
+\begin{itemize}
+\item[a.]
   Epidemie di malattie infettive
-\item
+\item[b.]
   Numero di morti per AIDS
-\item
+\item[c.]
   Sostenibilità economica del sistema sanitario
-\item
+\item[d.]
   Eccessivo numero di medici
-\item
+\item[e.]
   Carenza di personale medico
-\end{enumerate}
+\end{itemize}
 
 La risposta è la c.
 
-\includegraphics[width=6.69306in,height=4.72639in]{media/image1.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{21/image1.png}
+	\end{figure}
 
 Notizia apparsa oggi sui giornali specializzati in tema di salute:
 tassare il fumo, il cibo spazzatura, le bevande gassate e la guida
@@ -180,15 +107,12 @@ basata su quanto inquina la macchina).
 Quindi i decisori politici devono essere sensibilizzati per le ricadute
 sulla salute e il benessere delle persone.
 
-Sottosottosezione: \textbf{Classificazione della prevenzione}
+\subsubsection{Classificazione della prevenzione}
 
 \begin{itemize}
 \item
   prevenzione primaria: rimuovere i fattori di rischio e proteggere gli
   esposti (es. vaccini)
-\end{itemize}
-
-\begin{itemize}
 \item
   prevenzione secondaria: diagnosi precoce e identificazione di
   situazioni a rischio
@@ -207,7 +131,7 @@ Altra classificazione:
   prevenzione collettiva
 \end{itemize}
 
-Sottosottosezione: \textbf{Medicina Predittiva} (introdotta nel piano
+\subsubsection{Medicina Predittiva} (introdotta nel piano
 nazionale di prevenzione 2010-12)
 
 La medicina predittiva è una forma di medicina preventiva che ha lo
@@ -220,7 +144,7 @@ predispongono alla malattia, consente la personalizzazione di interventi
 creando profili di rischio e monitoraggi (es. mappature genetiche, carta
 del rischio). Il concetto è ottimizzare gli interventi.
 
-Sottosottosezione: \textbf{Malattie croniche: un allarme mondiale}
+\subsubsection{Malattie croniche: un allarme mondiale}
 
 \begin{itemize}
 \item
@@ -244,7 +168,7 @@ della popolazione) e 1 milione di diabetici che non sanno di esserlo, e
 questo è un grosso problema perchè non controllano la loro glicemia
 nelle prime fasi quindi aumentano le complicanze.
 
-Paragrafo: \textbf{Strategia italiana}
+\paragraph{Strategia italiana}
 
 \begin{itemize}
 \item
@@ -269,8 +193,7 @@ Prevenzione i quali obiettivi sono: alimentazione, attività fisica,
 alcol (le modiche quantità non creano problemi) e fumo (ci sono da
 aggiungere anche le droghe).
 
-Sottosottosezione: \textbf{problemi delle iniziative di prevenzione in
-Italia}
+\subsubsection{Problemi delle iniziative di prevenzione in Italia}
 
 \begin{itemize}
 \item
@@ -304,7 +227,7 @@ Italia}
   di tipo probabilistico
 \end{itemize}
 
-Sottosottosezione: \textbf{Le pipeline nazionali}
+\subsubsection{Le pipeline nazionali}
 
 \begin{itemize}
 \item
@@ -324,34 +247,33 @@ Sottosottosezione: \textbf{Le pipeline nazionali}
   Piano nazionale genomica e epigenetica
 \end{itemize}
 
-sottosottoSezione: \textbf{Piano Nazionale della prevenzione 2014-2018}
+\subsubsection{Piano Nazionale della prevenzione 2014-2018}
 
 Identifica dieci macro obiettivi :
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
+\begin{itemize}
+\item[1.]
   Ridurre il carico di morbosità, mortalità e disabilità delle malattie
   non trasmissibili
-\item
+\item[2.]
   Prevenire le conseguenze dei disturbi neurosensoriali
-\item
+\item[3.]
   Promuovere il benessere mentale nei bambini, adolescenti e giovani
-\item
+\item[4.]
   Prevenire le dipendenze da sostanze
-\item
+\item[5.]
   Prevenire gli incidenti stradali o ridurre la loro gravità
-\item
+\item[6.]
   Prevenire gli incidenti domestici
-\item
+\item[7.]
   Prevenire gli infortuni e le malattie professionali
-\item
+\item[8.]
   Ridurre le esposizioni ambientali potenzialmente dannose per la salute
-\item
+\item[9.]
   Ridurre la frequenza di infezioni
-\item
+\item[10.]
   Attività di prevenzione in sicurezza alimentare e veterinaria
-\end{enumerate}
+\end{itemize}
 
 La prevenzione delle malattie è un tema molto sentito dalle popolazioni
 e quindi potenziale fonte di consenso politico. Il politico abile può
@@ -368,7 +290,7 @@ argomenti scientifici le strumentalizzazioni e le derive demagogiche
 difficoltà per le richieste della popolazione. Per questo ci sono gli
 esperti).
 
-Paragrafo: \textbf{Spesa in prevenzione in Italia}
+\paragraph{Spesa in prevenzione in Italia}
 
 Quanto spendiamo per la prevenzione in Italia? Il 4,2\% della spesa
 sanitaria. Abbiamo presentato uno studio qualche settimana fa su
@@ -405,7 +327,7 @@ sicuramente avremo una risposta maggiore.
 sempre evidenziando la diversità tra le regioni e come anche le malattie
 future seguiranno questo andamento)
 
-Sottosottosezione: \textbf{Alcune definizioni}
+\subsubsection{Alcune definizioni}
 
 \begin{itemize}
 \item
@@ -438,7 +360,7 @@ Sottosottosezione: \textbf{Alcune definizioni}
   salute.
 \end{itemize}
 
-Sottosezione: \textbf{Screening}
+\subsection{Screening}
 
 Definizione Who: processo attraverso il quale le malattie non
 riconosciute (o difetti) sono identificate attraverso test che possono
@@ -455,9 +377,11 @@ sensibile, perchè è utile per chi ha i sintomi e non per chi è
 asintomatico perchè i falsi positivi sono troppi. Quindi è inserito tra
 gli screening di dubbia efficacia.{]}
 
-\textbf{ELENCO SCREENING UTILIZZATI IN ITALIA}
+\subsubsection{Elenco screening utilizzati in Italia}
 
-SCREENING DI MASSA IN POPOLAZIONI ADULTE
+\begin{itemize}
+
+\item SCREENING DI MASSA IN POPOLAZIONI ADULTE
 
 \begin{itemize}
 \item
@@ -468,7 +392,7 @@ SCREENING DI MASSA IN POPOLAZIONI ADULTE
   tumore del colon-retto: ricerca del sangue occulto nelle feci
 \end{itemize}
 
-SCREENING SELETTIVI IN SOGGETTI CON FAMILIARITà
+\item SCREENING SELETTIVI IN SOGGETTI CON FAMILIARITà
 
 \begin{itemize}
 \item
@@ -483,7 +407,7 @@ SCREENING SELETTIVI IN SOGGETTI CON FAMILIARITà
   tumore colon-retto con poliposi familiare: colonscopia
 \end{itemize}
 
-SCREENING DI DUBBIA EFFICACIA
+\item SCREENING DI DUBBIA EFFICACIA
 
 \begin{itemize}
 \item
@@ -502,21 +426,21 @@ SCREENING DI DUBBIA EFFICACIA
   tumore dello stomaco: gastroscopia
 \end{itemize}
 
-SCREENING DI MASSA IN Età NEONATALE
+\item SCREENING DI MASSA IN Età NEONATALE
 
 funzionano tutti: displasia congenita dell'anca, ipotiroidismo congenito
 ecc...
 
-SCREENING PER LA TUTELA DELLA POPOLAZIONE SANA
+\item SCREENING PER LA TUTELA DELLA POPOLAZIONE SANA
 
 Di solito malattie infettiva: HIV,HBV,HCV, malattie a trasmissione
 fecale-orale...
 
-SCREENING PRECONCEZIONALI E PRENATALI
+\item SCREENING PRECONCEZIONALI E PRENATALI
 
 Malattie genetiche
 
-SCREENING IN AMBITO LAVORATIVO E SPORTIVO
+\item SCREENING IN AMBITO LAVORATIVO E SPORTIVO
 
 Sordità, funzionalità respiratoria, patologie cardiache latenti,
 alterazioni oculari ecc...
@@ -530,5 +454,4 @@ Specificità: probabilità del test negativo nelle persone senza malattia.
 Meglio prendere qualche falso positivo che farsi sfuggire un falso
 negativo. E questo lo valuto soprattutto al momento della soglia da
 scegliere per definire i falsi positivi e i falsi negativi.
-
-\end{document}
+\end{itemize}
