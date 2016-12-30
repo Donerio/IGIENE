@@ -1,77 +1,4 @@
-\documentclass[]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-
-\date{}
-
-\begin{document}
-
-Lezione del 2/12/2016
-
-Prof. Signorelli
-
-prima lezione ambiente e salute
-
-\textbf{AMBIENTE E SALUTE (sezione)}
+\section{Ambiente e salute}
 
 CRONACA: 2 morti di meningite all'Università Statale di Milano.
 
@@ -99,11 +26,11 @@ sono state vaccinate.
 
 Per certe categorie, come personale sanitario, può essere giustificata
 una vaccinazione in età adulta però il normale approccio è fare le
-vaccinazioni all'età in cui sono consigliate (1° anno di vita per
-anti-meningococco B e 2°anno di vita per vaccino bivalente A C o
+vaccinazioni all'età in cui sono consigliate (1\textsuperscript{o} anno di vita per
+anti-meningococco B e 2\textsuperscript{o}anno di vita per vaccino bivalente A C o
 quadrivalente A C Y W135).
 
-POLITICHE AMBIENTALI IN RELAZIONE ALLA SALUTE UMANA (sottosezione)
+\subsection{Politiche ambientali in relazione alla salute umana}
 
 EUROBAROMETRO 2011: 90\% dei cittadini europei intervistati si dichiara
 preoccupato per l'ambiente.
@@ -163,7 +90,10 @@ riconosca dei fattori ambientali come fattori di rischio primari e
 secondari (compreso il clima tropicale per la trasmissione di malattie
 infettive).
 
-\includegraphics[width=5.64861in,height=4.24444in]{media/image1.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image1.jpeg}
+	\end{figure}
 
 Importante notare come vi sia una stretta correlazione tra il mondo
 fisico, l'ambiente, gli animali (alimenti di origine animale che possono
@@ -179,9 +109,12 @@ C'è una strettissima correlazione tra l'inquinamento e le varie matrici
 ambientali e l'ambiente, inteso come acqua -- aria --suolo è da
 considerare come un tutt'uno.
 
-Politiche Ambientali (sottosottosezione)
+\subsubsection{Politiche Ambientali}
 
-\includegraphics[width=6.69583in,height=5.02917in]{media/image2.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image2.jpeg}
+	\end{figure}
 
 Le politiche ambientali italiane sono le politiche ambientali
 dell'Unione Europea.
@@ -267,7 +200,12 @@ Altri 3 settori:
   meno.
 \end{itemize}
 
-\includegraphics[width=5.92153in,height=4.44861in]{media/image3.jpeg}Cosa
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image3.jpeg}
+	\end{figure}
+
+Cosa
 dicono delle nostre politiche ambientali all'estero: RAPPORTI OCSE.
 
 Si dice che la gestione delle politiche ambientali è non sempre efficace
@@ -281,7 +219,14 @@ vantaggio dell'ambiente.
 
 Ci sono morti per inquinamento ambientale ma si deve fare attenzione ai
 titoli dei
-giornali.\includegraphics[width=5.90347in,height=4.43472in]{media/image4.jpeg}Il
+giornali.
+
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image4.jpeg}
+	\end{figure}
+
+Il
 grafico ci dice che dal 1990 al 2010 (in 20 anni) siamo riusciti a
 ridurre sotto i livelli di pericolosità gli inquinamenti dell'aria da
 inquinanti contenenti zolfo, composti contenenti azoto\ldots{} qualche
@@ -348,7 +293,10 @@ al posto delle coltivazioni. Quando lo stato si è accorto del problema
 ha `messo una pezza', ma intanto si sono riempite di pannelli alcune
 zone anche di pregio ambientale.
 
-\includegraphics[width=6.68750in,height=5.03125in]{media/image5.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image5.jpeg}
+	\end{figure}
 
 Ruolo del medico, in particolare medico di medicina generale perché ha
 contatto con l'assistito, e svolge un ruolo importante in termini di
@@ -365,9 +313,12 @@ progredire e innovare le tecnologie.
 Il problema dello sviluppo sostenibile è: come traduciamo questi
 principi in politiche ambientali? Qui nascono i disaccordi\ldots{}
 
-\includegraphics[width=6.68750in,height=5.03125in]{media/image6.jpeg}
-
-\textbf{Sindrome Nimby}: not in my back = non nel mio cortile!
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image6.jpeg}
+	\end{figure}
+	
+\textbf{Sindrome Nimby}: not in my backyard = non nel mio cortile!
 
 Tutti approvano un nuovo `insediamento' però non vicino a casa propria.
 La sindrome di Nimby è un atteggiamento che consiste nel ritenere
@@ -383,10 +334,13 @@ tutti le vogliono fare, ma nessuno vicino casa propria.
 Risultato: abbiamo politiche ambientali molto rallentate da questi
 fenomeni, che si riconoscono sotto il nome di Sindrome di Nimby.
 
-Rischio ambientale e determinanti di rischio (sottosottosezione)
+\subsubsection{Rischio ambientale e determinanti di rischio}
 
-\includegraphics[width=6.68750in,height=5.03125in]{media/image7.jpeg}
-
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image7.jpeg}
+	\end{figure}
+	
 Ci sono 3 elementi che condizionano il \emph{\textbf{rischio
 ambientale}} per la salute:
 
@@ -410,7 +364,7 @@ il fumo di sigaretta considerato rischio individuale).
 Attenzione! Il 7\% in più non è spalmato per tutti allo stesso modo: i
 fumatori ne risentono di più. La sinergia tra due fattori che agiscono
 sullo stesso apparato crea un aumento del rischio (rischio legato alla
-vulnerabilità del soggetto  il fumo di sigaretta).
+vulnerabilità del soggetto + il fumo di sigaretta).
 
 Gestione del rischio cautelativa secondo il principio generale di
 precauzione laddove è accettabile un rischio specifico di 1 morto su 1
@@ -420,7 +374,12 @@ ritenga superi questa soglia accettabile non si fa.
 
 Come gestiamo il rischio ambientale?
 
-\includegraphics[width=5.84375in,height=4.39653in]{media/image8.jpeg}Si
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{22/image8.jpeg}
+	\end{figure}
+	
+Si
 gestisce identificando le misure idonee per eliminare o definire il
 rischio accettabile con un monitoraggio sia ambientale che di parametri
 biologici (se necessario) e con un'attività di comunicazione al rischio
@@ -430,7 +389,7 @@ ai cittadini che devono essere in grado di capire quali sono i rischi
 Il sistema dei controlli è gestito dalle ARPA: sistemi regionali per la
 protezione ambientale, con articolazioni su base provinciale.
 
-Valutazione d'impatto ambientale (sottosottosezione)
+\subsubsection{Valutazione d'impatto ambientale}
 
 I rischi ambientali, in generale, si prevengono a monte attraverso la
 ``\textbf{Valutazione di impatto ambientale}''. Oggi in tutta Europa
@@ -465,5 +424,3 @@ integrante delle politiche ambientali.
 L'Autorizzazione Integrata Ambientale è un'autorizzazione rilasciata
 dalla regione, provincia o comune (a seconda del tipo di insediamento)
 che dovrebbe garantire il rispetto di tutte le norme.
-
-\end{document}
