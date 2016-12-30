@@ -1,80 +1,6 @@
-\documentclass[]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+\section{Determinanti di salute}
 
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-
-\date{}
-
-\begin{document}
-
-Igiene 21/11/2016
-
-Dott.ssa A.Odone
-
-Sbobinatore: Nicolò Gallina
-
-Argomenti: Determinanti di salute, One Health, Health in all polices,
-dettaglio dei singoli determinanti di salute
-
-\textbf{News del giorno} (sottosezione)
+\subsection{News del giorno}
 
 News del giorno, presa dal bollettino della società italiana di igiene,
 si parla di introdurre la scuola di specialità in medicina generale (che
@@ -84,7 +10,7 @@ l'organizzazione dei nuovi percorsi di studio per i medici di medicina
 generale. Perché i medicini di medicina generale hanno un'importante
 ruolo nella comunicazione sanitaria e nella prevenzione.
 
-\textbf{Determinanti di salute} (sezione)
+\subsection{Determinanti di salute}
 
 Per determinanti intendiamo un fattore, ovvero ciò che determina. I
 determinanti della salute sono quindi quei fattori che impattano sullo
@@ -128,7 +54,10 @@ tre grossi capitoli:
 3)Le caratteristiche individuali delle persone e i comportamenti.
 (definizione dell'OMS).
 
-\includegraphics[width=6.68889in,height=5.02639in]{media/image1.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{17/image1.png}
+	\end{figure}
 
 Il Grafico vi presenta la distribuzione dei determinanti nelle
 popolazioni in base al peso che hanno. Alcuni determinanti di salute
@@ -159,7 +88,10 @@ collocano le caratteristiche delle comunità su cui si collocano con una
 collocazione ancor più distale le caratteristiche ecologiche (l'ambiente
 fisico, ambiente culturale, le indicazioni socio economiche)
 
-\includegraphics[width=6.68889in,height=5.01319in]{media/image2.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{17/image2.png}
+	\end{figure}
 
 Se voi prendete questo come riferimento riuscite a capire quest'altro
 grafico.
@@ -196,7 +128,7 @@ dei sistemi sanitari (che possono essere più o meno ricchi) sia della
 domanda (cioè del cittadino che ha i mezzi sia materiali che
 intellettuali di accedere alle cure messe a disposizione dal SSN).
 
-\textbf{ONE HEALTH (UNA SALUTE)} (Paragrafo)
+\subsubsection{One health (Una salute)}
 
 Il concetto di one health riconosce che la salute degli esseri umani è
 legata alla salute degli animali e dell'ambiente.
@@ -216,8 +148,7 @@ ricopre la salute ambientale, l'ecologia, la medicina veterinaria la
 sanità pubblica la medicina clinica umana, la microbiologia in maniera
 interconnessa.
 
-\textbf{HEALTH IN ALL POLICES (Salute in tutte le politiche)}
-(paragrafo)
+\subsubsection{Health in all polices (Salute in tutte le politiche)}
 
 Tutte le politiche economiche, agricole, ambientali, di educazioni,
 praticamente tutti i ministeri dovrebbero tener conto delle potenziali
@@ -243,11 +174,11 @@ perché riducono il traffico, si abbassa l'inquinamento e migliora la
 salute. Si può favorire l'uso dei mezzi pubblici con sconti sui
 trasporti, bike sharing, le ZTL.
 
-\textbf{Dettaglio dei determinanti di salute} (Sottosezione)
+\subsection{Dettaglio dei determinanti di salute}
 
 Ora analizziamo più nel dettaglio i determinanti di salute
 
-\textbf{Dieta} (Paragrafo)
+\subsubsection{Dieta} 
 
 Può essere sia un determinante di salute che di malattia. L'indice di
 massa corporea BMI è un indice che si utilizza per valutare l'obesità.
@@ -285,7 +216,7 @@ della loro probabilità ad andare incontro ad un evento cardiovascolare.
 E' un esempio di quello che si può fare per promuovere a diversi livelli
 stili di vita corretti.
 
-\textbf{Attività Fisica} (Paragrafo)
+\subsubsection{Attività Fisica}
 
 Tutti sanno che l'attività fisica ha un impatto positivo su diversi
 outcome di salute. Quello che è certo è che l'inattività fisica è un
@@ -322,7 +253,10 @@ inferenze vedendo anche la distribuzione in questo caso della
 sedentarietà per caratteristiche socio-demografiche quali ad esempio
 età, sesso, grado di istruzione e facoltà economiche.
 
-\includegraphics[width=6.68889in,height=4.98889in]{media/image3.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{17/image3.png}
+	\end{figure}
 
 Viene descritto a parole un grafico proiettato a lezione ``Sull'asse
 delle ascisse è indicato la quantità di persone, sulle ordinate vediamo
@@ -338,7 +272,7 @@ Quindi in generale uno stato socio-economico inferiore, che si può
 misurare attraverso il grado di istruzione, sia legato a distribuzione
 maggiore del fattore di rischio sedentarietà.
 
-\textbf{Fumo} (paragrafo)
+\subsubsection{Fumo}
 
 Il 12\% dei giovani a 15 anni secondo voi fuma? Si questo è un dato non
 aggiornatissimo ma corretto. Vuol dire che 12 adolescenti su 100 a 15
@@ -380,7 +314,10 @@ che hanno favorito questo successo? Tramite educazione, formazione,
 comunicazione, le tasse sui tabacchi, gli aspetti normativi e il
 consentire o meno il fumo nei luoghi chiusi pubblici.
 
-\includegraphics[width=6.68889in,height=4.98194in]{media/image4.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{17/image4.png}
+	\end{figure}
 
 Nella slide potete vedere la distribuzione nei due sessi dell'abitudine
 al fumo {[}prevalenza di fumatori per sesso dal 1993 al 2010{]} cosa
@@ -393,9 +330,12 @@ mentre nel sesso femminile si è assistito ad un tenue aumento di questa
 prevalenza, è soprattutto la riduzione dell'abitudine fumatoria nei
 maschi che ha permesso di ridurre questo gap.
 
-\textbf{Alcol} (Paragrafo)
+\subsubsection{Alcol} 
 
-\includegraphics[width=6.68889in,height=5.00625in]{media/image5.png}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{17/image5.png}
+	\end{figure}
 
 Questa tabella, presa dal vostro libro, riassume le principali patologie
 attribuibili al consumo cronico di alcolici come cirrosi, epatite,
@@ -450,5 +390,3 @@ occupare di certi stati anche di queste problematiche che sono
 considerate problematiche si sanità pubblica legate alla distribuzione
 differenziale dei vari determinanti di salute (es Inghilterra dove il
 tasso di gravidanze non volute è più alto della media europea).
-
-\end{document}
