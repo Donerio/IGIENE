@@ -1,82 +1,21 @@
-\documentclass[]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
 
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
+\subsection{Breaking news: euro sindrome nimby}
+
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image2.jpg}
+	\end{figure}
 
 
-\date{}
-
-\begin{document}
-
-\textbf{BREAKING NEWS: EURO SINDROME NIMBY (sottosezione)}
-
-\includegraphics[width=3.85230in,height=2.90990in]{media/image2.emf}
 
 Si inizia con un aneddoto: viene chiesto quanti studenti fanno uso del
-profumo Chanel n°5. Diverse mani si alzano.
+profumo Chanel n \textsuperscript{o}5. Diverse mani si alzano.
 
 La nota azienda Chanel sta utilizzando le sue risorse legali per
 interrompere i lavori per la costruzione della ferrovia ad alta velocità
 Marsiglia-Nizza perché un paio di viadotti andrebbero a distruggere
 parte delle coltivazioni di gelsomino, utilizzati nella produzione del
-profumo n°5, molto noto e amato.
+profumo n \textsuperscript{o}5, molto noto e amato.
 
 Questo rientra nel concetto che quando sono presenti delle questioni
 ambientali sorgono delle dispute a livello locale che a volte rallentano
@@ -110,7 +49,8 @@ molto delicata.
 Si suggerisce di approfondire i tre argomenti seguenti (clima e aria,
 ambienti indoor e rifiuti) in maniera autonoma.
 
-\textbf{CLIMA E ARIA (sezione)}
+\subsection{Clima e Aria}
+
 
 Per motivi già noti il clima influenza la salute umana.
 
@@ -142,7 +82,6 @@ dell'uomo.
 Si invita a soffermarsi in particolare su questi aspetti:
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
 \item
   ONDATE DI CALORE
 \item
@@ -151,7 +90,8 @@ Si invita a soffermarsi in particolare su questi aspetti:
   INQUINAMENTO ATMOSFERICO
 \end{enumerate}
 
-\textbf{ONDATE DI CALORE (sottosezione)}
+\subsubsection{Ondate di Calore}
+
 
 Le ondate di calore sono un problema rilevante per la sanità pubblica.
 Si tratta di periodi, solitamente di alcuni giorni o di qualche
@@ -176,11 +116,11 @@ cronici come i cardiopatici e i malati polmonari) sono di:
 
 \begin{itemize}
 \item
-  \begin{quote}
+
   evitare lunghe esposizioni esterne
-  \end{quote}
+
 \item
-  \begin{quote}
+
   dove possibile controllare il microclima, che è l'elemento
   fondamentale. Se non è presente un climatizzatore può essere
   sufficiente un ventilatore o anche un riscontro d'aria ben fatto tra i
@@ -188,15 +128,15 @@ cronici come i cardiopatici e i malati polmonari) sono di:
   microclima sia unicamente legato al condizionatore o al
   climatizzatore; se c'è è un vantaggio ma bisogna considerarne i costi
   e il consumo energetico)
-  \end{quote}
+
 \item
-  \begin{quote}
+   
   alimentazione leggera
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   abbigliamento idoneo
-  \end{quote}
+   
 \end{itemize}
 
 Attenzione speciale va riservata anche alle categorie come i neonati o i
@@ -211,7 +151,8 @@ L'ondata di calore è di per sé un elemento atmosferico che a prescindere
 dalle condizioni climatiche aggiunge un fattore di rischio; a volte sono
 correlate a fenomeni di inquinamento atmosferico.
 
-\textbf{RISCALDAMENTO GLOBALE ( sottosezione)}
+\subsubsection{Riscaldamento Globale}
+
 
 È importante considerare la questione dei cambiamenti climatici in
 quanto direttamente collegata all'inquinamento atmosferico: l'aumento
@@ -255,7 +196,10 @@ il calore è in questo modo intrappolato. Questo stesso principio lo si
 ritrova nell'atmosfera, con le particelle di CO\textsubscript{2}
 responsabili dell'aumento della temperatura.
 
-\includegraphics[width=6.64800in,height=2.38687in]{media/image3.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image3.jpg}
+	\end{figure}
 
 L'effetto serra determina un problema di aumento di temperatura oltre
 che di maggior concentrazione degli inquinanti. Perché il problema
@@ -269,7 +213,10 @@ in quanto essi sono oggi realtà industriali assolutamente comparabili se
 non superiori a quelle di Europa e Nord America) che non hanno
 sottoscritto il protocollo e inquinano molto di più.
 
-\includegraphics[width=5.61553in,height=3.49311in]{media/image4.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image4.jpg}
+	\end{figure}
 
 L'atmosfera è però unica: non basta che i Paesi firmatari del protocollo
 di Kyoto limitino le loro emissioni, in quanto questo avrà un effetto
@@ -287,24 +234,25 @@ accordi.
 Lo sforzo internazionale è in questo momento concentrato su questo
 problema.
 
-\textbf{INQUINAMENTO ATMOSFERICO (sottosezione)}
+\subsubsection{Inquinamento Atmosferico}
+
 
 Gli inquinanti atmosferici derivano principalmente, almeno nelle nostre
 zone, da tre fonti principali:
 
 \begin{itemize}
 \item
-  \begin{quote}
+   
   traffico veicolare
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   impianti termici
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   impianti industriali
-  \end{quote}
+   
 \end{itemize}
 
 Queste non sono chiaramente le uniche fonti ma sono le maggiori; le
@@ -323,7 +271,7 @@ chiaro che per quanto riguarda gli impianti termici esiste un fattore
 climatico importante.
 
 Per esempio esistono delle regioni che hanno principalmente o l'uno o
-l'altro (alcune entrambi); in Sicilia i ¾ delle case non hanno un
+l'altro (alcune entrambi); in Sicilia i 3/4 delle case non hanno un
 impianto di riscaldamento centralizzato, questo perché le condizioni
 climatiche non portano a una reale necessità di riscaldamento, il quale
 serve solo alcuni giorni l'anno, qualche settimana al massimo.
@@ -374,9 +322,15 @@ sostanze contenute nell'atmosfera ma il cui effetto è chiaramente
 maggiore) determini questi eccessi di rischio che portano a quegli
 aumenti di patologia cronica.
 
-\includegraphics[width=6.47132in,height=4.96104in]{media/image5.emf}
-
-\includegraphics[width=6.40238in,height=4.63793in]{media/image6.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image5.jpg}
+	\end{figure}
+	
+	\begin{figure}[!ht]
+	\centering
+		\includegraphics[width=0.7\textwidth]{23/image6.jpg}
+		\end{figure}
 
 La stima precedentemente nominata è stata recentemente alzata a 467.000
 morti annue dall'agenzia della UE che si occupa di ambiente. Le zone
@@ -445,29 +399,32 @@ pregio, ma molto antico quindi gli interventi sul patrimonio immobiliare
 già esistente sono più difficoltosi rispetto alle nuove unità
 immobiliari.
 
-\includegraphics[width=5.25529in,height=3.47015in]{media/image7.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image7.jpg}
+	\end{figure}
 
 Oltre ai sopracitati interventi, sono interessanti i suggerimenti che il
 medico può dare al singolo cittadino:
 
 \begin{itemize}
 \item
-  \begin{quote}
+   
   controllo della temperatura degli ambienti domestici
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   verifiche puntuali degli scarichi dei veicoli
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   evitare attività fisiche in aree inquinate. Si parla di tempo di
   esposizione, vulnerabilità personale e pericolosità delle sostanze.
   Iperventilando si respira una quantità d'aria maggiore: se l'aria è
   inquinata chiaramente si respirerà anche una quantità di inquinanti
   maggiore. Per questo motivo è sconsigliabile andare a fare jogging o
   in bicicletta in aree inquinate.
-  \end{quote}
+   
 \end{itemize}
 
 Per quanto riguarda il problema dell'ozono si suggerisce di approfondire
@@ -476,19 +433,19 @@ formazione sono necessarie tre condizioni:
 
 \begin{itemize}
 \item
-  \begin{quote}
+   
   presenza di precursori, gli ossidi d'azoto, sempre presenti
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   presenza di sostanze organiche anche di origine naturale, che si vanno
   a combinare con gli ossidi d'azoto
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   presenza di radiazione ultravioletta, necessaria per la reazione
   chimica; non a caso si parla di smog fotochimico.
-  \end{quote}
+   
 \end{itemize}
 
 Quand'è che si verificano queste tre condizioni? Gli ossidi d'azoto sono
@@ -514,7 +471,8 @@ con il motore acceso per evitare di respirare lo scarico del veicolo che
 precede; si tratta chiaramente di qualcosa di ovvio e rientra nella
 prevenzione per avere stili di vita più salutari e sostenibili.
 
-\textbf{INQUINAMENTO INDOOR (sezione)}
+\subsection{Inquinamento Indoor}
+
 
 Il problema dell'aria inquinata è un problema che riguarda sia gli
 ambienti outdoor ma anche quelli indoor. Se è inquinato fuori, è anche
@@ -568,45 +526,45 @@ Quali sono gli elementi da considerare?
 
 \begin{itemize}
 \item
-  \begin{quote}
+   
   temperatura dell'aria
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   umidità relativa
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   calore radiante
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   velocità dell'aria
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   illuminazione
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   rumore
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   sicurezza
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   benessere visivo
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   odori; se derivati da inquinamenti possono avere un significato anche
   diretto per quanto riguarda i problemi della salute. Ci sono odori che
   non hanno effetti sulla salute fisica ma che disturbano, interferendo
   con la salute intesa come benessere mentale e sociale, altrettanto
   fondamentale.
-  \end{quote}
+   
 \end{itemize}
 
 Si considerino quindi alcuni elementi, come l'\textbf{illuminazione} e
@@ -655,7 +613,10 @@ peggiorando notevolmente l'aspetto precedente del tetto, più compatto,
 anche con delle finestre tipo lucernari che non rovinavano l'impatto
 soprattutto nelle aree di pregio come i centri storici.
 
-\includegraphics[width=6.75961in,height=1.84800in]{media/image8.jpeg}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image8.jpeg}
+	\end{figure}
 
 Questo sfruttamento dei sottotetti ha quindi impattato sul benessere
 visivo della comunità.
@@ -700,7 +661,10 @@ raccomandazione quando ci sono i bambini per evitare di fumare in casa
 quando sono presenti, perché il danno da fumo passivo è molto maggiore
 nei soggetti più fragili.
 
-\includegraphics[width=5.19896in,height=2.57669in]{media/image9.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image9.jpg}
+	\end{figure}
 
 Come avvengono i ricambi d'aria negli ambienti confinati?
 
@@ -743,7 +707,7 @@ Perché è necessario avere ricambi d'aria in ambienti confinati? Per via
 dell'accumulo di eventuali patogeni o polveri sottili o anche di gas
 nocivi (per esempio in alcuni scantinati). Oltre a questo è fondamentale
 ricordare che i ricambi sono necessari perché si respira aria a
-temperatura e umidità ambientali, ma la si espira a 36°C e satura, con
+temperatura e umidità ambientali, ma la si espira a 36 \textsuperscript{o}C e satura, con
 il 100\% di umidità. Se in un ambiente confinato sono presenti persone
 (e più sono più chiaramente la condizione peggiora) in poco tempo e
 senza ricambi d'aria si ha una situazione di aumento della temperatura e
@@ -773,9 +737,9 @@ che sono modi per trasmettere le malattie a trasmissione aerea.
 
 I parametri ottimali da soddisfare per stare bene sono:
 
-TEMPERATURA: inverno tra i 19° e i 22°C (tant'è che una legge datata ma
-ancora vigente afferma che in casa la massima è di 20° C con una
-tolleranza di più o meno 2°C);
+TEMPERATURA: inverno tra i 19 \textsuperscript{o} e i 22 \textsuperscript{o}C (tant'è che una legge datata ma
+ancora vigente afferma che in casa la massima è di 20 \textsuperscript{o} C con una
+tolleranza di più o meno 2 \textsuperscript{o}C);
 
 UMIDITA': tra il 40-60\%; se l'aria è troppo secca o troppo umida si
 possono avere dei problemi alle alte vie aeree (problemi di irritazioni
@@ -785,7 +749,10 @@ MOVIMENTO DELL'ARIA: avrà un effetto positivo o negativo a seconda della
 situazione; d'estate è un piacere, d'inverno peggiora la situazione
 microclimatica delle persone.
 
-\includegraphics[width=5.86260in,height=3.01841in]{media/image10.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image10.jpg}
+	\end{figure}
 
 La precisazione della differenza tra estate e inverno è doverosa perché
 si utilizza generalmente un vestiario diverso e quindi nella stagione
@@ -800,9 +767,15 @@ condizione ci sarà sempre qualcuno che non è in una situazione di
 comfort; è per questo motivo che è importante influenzare con il
 vestiario il proprio stato di maggiore o minore benessere.
 
-\includegraphics[width=6.08960in,height=3.15781in]{media/image11.emf}
-
-\includegraphics[width=5.75000in,height=2.88490in]{media/image12.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image11.jpg}
+	\end{figure}
+	
+	\begin{figure}[!ht]
+	\centering
+		\includegraphics[width=0.7\textwidth]{23/image12.jpg}
+		\end{figure}
 
 Per concludere (con la raccomandazione di leggere autonomamente questa
 parte) si elencano gli inquinanti indoor più importanti:
@@ -834,25 +807,33 @@ Si rimanda alle lezioni precedenti per ulteriori informazioni. Negli
 ambienti confinati oggi è cruciale (e anche sentita dalla popolazione)
 la questione del risparmio energetico: impianti a basso tenore di
 inquinamento e certificazione energetica degli edifici.
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image13.jpg}
+	\end{figure}
 
-\includegraphics[width=4.80556in,height=3.08451in]{media/image13.emf}
+\subsection{Gestione Ciclo Rifiuti}
+ 
 
-GESTIONE CICLO RIFIUTI (sezione)
-
-\includegraphics[width=5.39021in,height=3.54876in]{media/image14.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image14.jpg}
+	\end{figure}
 
 Il tema è quanto mai attuale; oggi i problemi più grossi nella gestione
 dei rifiuti sono i seguenti:
 
 \begin{itemize}
 \item
-  \begin{quote}
+   
   ABBANDONO STRADALE E DISCARICHE ABUSIVE (si pensi all'Italia nel
   complesso)
-  \end{quote}
-\end{itemize}
+   
 
-\begin{quote}
+
+ \begin{quote}
+ 
+
 Per assurdo i sistemi molto fiscali e complicati di raccolta
 differenziata di fatto hanno accentuato il problema dell'abbandono dei
 rifiuti. Per esempio se si ha necessità di smaltire un materasso si
@@ -860,22 +841,22 @@ incontrano diverse difficoltà: dalla mancanza di reperibilità di
 informazioni sul corretto smaltimento (non rispondono ai numeri verdi
 indicati) alla tassazione sul ritiro del bene; succede spesso che per
 esasperazione la gente carichi il materasso in questione e lo abbandoni.
-\end{quote}
+  \end{quote}
 
-\begin{itemize}
+
 \item
-  \begin{quote}
+   
   ECOMAFIE che gravano su chi gestisce, trasporta e trasforma i rifiuti;
   esse condizionano il mercato, condizionano le scelte e a volte
   bloccano alcune operazioni fatte nell'interesse di una corretta
   gestione dei rifiuti.
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   STRUMENTALIZZAZIONI: già trattate
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   EDUCAZIONE DEI CITTADINI: se la raccolta differenziata può
   ragionevolmente arrivare al 70\% (con impegno da parte del singolo ma
   senza impazzire) è incomprensibile come in alcune città dal grande
@@ -893,7 +874,7 @@ esasperazione la gente carichi il materasso in questione e lo abbandoni.
   ci sono altre regioni virtuose come l'Alto Adige dove si è raggiunto
   il 70\%-75\%. La norma nazionale stabilisce un 70\%, la realtà in
   media è sul 40\%.
-  \end{quote}
+   
 \end{itemize}
 
 Perché si parla di rifiuti oggi?
@@ -914,7 +895,10 @@ sia pur con difficoltà, però tenendo presente il valore del 70\% (nato
 appunto per tenere conto di questa oggettiva difficoltà nella raccolta
 dei rifiuti nonostante il grande impegno collettivo).
 
-\includegraphics[width=5.99144in,height=4.30409in]{media/image15.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image15.jpg}
+	\end{figure}
 
 Il nodo cruciale per quanto riguarda la salute umana è la scelta
 \textbf{INCENERITORE O DISCARICA?}
@@ -942,7 +926,10 @@ nei pressi degli inceneritori della regione Emilia Romagna. Esso ha
 escluso effetti gravi sulla salute in chi abita o ha abitato vicino agli
 inceneritori.
 
-\includegraphics[width=5.98530in,height=3.56442in]{media/image16.emf}
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.7\textwidth]{23/image16.jpg}
+	\end{figure}
 
 Si osservi che per quanto riguarda l'incidenza dei tumori nelle femmine
 nessun dato è statisticamente significativo; per i maschi si è visto che
@@ -964,9 +951,9 @@ per via del riscaldamento domestico).
 Quali sono i rischi sanitari e ambientali della gestione dei rifiuti?
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
+
 \item
-  \begin{quote}
+   
   PROBLEMA DI IGIENE E DECORO URBANO legato ai sistemi di raccolta:
   nelle emergenze le città spesso sono impresentabili (chiaramente non
   si tratta di Parma ma di città come Roma o Napoli che hanno spesso
@@ -979,32 +966,31 @@ Quali sono i rischi sanitari e ambientali della gestione dei rifiuti?
   fatto. Napoli ha risolto il problema brillantemente caricando i
   rifiuti e mandandoli in Olanda (è una soluzione ma si invita alla
   riflessione)
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   SICUREZZA DEL PERSONALE INCARICATO ALLA RACCOLTA E AL TRASPORTO DEI
   RIFIUTI: i netturbini sono tra le categorie a rischio per le punture
   con aghi o siringhe
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   CONTAMINAZIONE DELL'AMBIENTE SOPRATTUTTO LEGATA AI RIFIUTI SPECIALI:
   non è un caso che i rifiuti ospedalieri speciali vengano raccolti con
   un sistema diverso, mandati poi non in discarica ma all'inceneritore e
   solo agli inceneritori autorizzati;
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   INQUINAMENTO DEL SUOLO E DELLE ACQUE legato alle discariche
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   INQUINAMENTO DELL'ARIA legato agli inceneritori
-  \end{quote}
+   
 \item
-  \begin{quote}
+   
   EMERGENZE LEGATE ALLA CATTIVA PIANIFICAZIONE di raccolta dei rifiuti.
-  \end{quote}
+   
 \end{enumerate}
 
-\end{document}
