@@ -1,79 +1,6 @@
-\documentclass[]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\usepackage[unicode=true]{hyperref}
-\hypersetup{
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+\section{Disagio psichico in medicina generale}
 
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-
-\date{}
-
-\begin{document}
-
-Dott. Vescovi
-
-26/01/2017
-
-Laura Valeo
-
-DISAGIO PSICHICO IN MEDICINA GENERALE (sezione)
-
-DIMENSIONE DEL PROBLEMA (sottosezione)
+\subsection{Dimensione del problema}
 
 Nella seconda metà del secolo scorso molti medici si sono resi conto del
 grande peso del disagio psichico che riguardava la medicina generale.
@@ -103,7 +30,12 @@ la popolazione che accede alle cure primarie è la stragrande
 maggioranza, i dati ottenuti potrebbero essere considerati come un dato
 di reale prevalenza nella popolazione generale.
 
-\includegraphics[width=4.65347in,height=2.20903in]{media/image1.jpeg}Secondo
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.8\textwidth]{42/image1.jpeg}
+	\end{figure}
+	
+Secondo
 vari studi svolti successivamente anche in Italia, a Bologna e Verona,
 si è potuto confermare i dati emersi precedentemente e stabilire che la
 maggior parte dei pazienti soffriva di un disturbo sovrapponibile tra
@@ -135,9 +67,14 @@ Inoltre questo dato può essere legato al fatto che per il paziente sia
 più ``facile'' e meno doloroso riferire un sintomo fisico piuttosto che
 un sintomo psichico.
 
-DISTURBI PSICHIATRICI IN MEDICINA GENERALE (sottosezione)
+\subsection{Disturbi psichiatrici in medicina generale}
 
-\includegraphics[width=3.92083in,height=2.50000in]{media/image2.jpeg}Secondo
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.8\textwidth]{42/image2.jpeg}
+	\end{figure}
+	
+Secondo
 lo studio di Bologna-Verona è stata analizzata anche la differente
 prevalenza tra i casi di \textbf{depressione} classificabile secondo
 ICD-10 e i casi di \textbf{depressione sottosoglia} (ovvero dove il
@@ -226,7 +163,12 @@ Il medico dovrebbe confrontarsi con la storia, la sofferenza del
 paziente e con il percorso che lo ha portato all'autodiagnosi senza
 infastidirsi e offrendo la sua cultura per aiutare il paziente.
 
-\includegraphics[width=5.31597in,height=2.61597in]{media/image3.jpeg}In
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.8\textwidth]{42/image3.jpeg}
+	\end{figure}
+	
+In
 medicina generale una buona modalità per raccogliere informazioni è
 chiedere al paziente, se vuole e non lo fa stare male, di scrivere un
 diario in modo da focalizzare le cose accadute.
@@ -298,7 +240,8 @@ lunedì mattina, potrebbe essere in realtà la drammatizzazione di un
 disagio psichico legato ad una situazione in cui il paziente non si
 trova a proprio agio (stress sul luogo di lavoro).
 
-PATOLOGIE ASSOCIATE A DEPRESSIONE DELL'UMORE (sottosezione)
+\subsection{Patologie associate a depressione dell'umore}
+
 
 Esistono numerose patologie somatiche associate a depressione
 dell'umore:
@@ -306,7 +249,6 @@ dell'umore:
 \begin{itemize}
 \item
   Disturbi endocrini
-\end{itemize}
 
 \begin{itemize}
 \item
@@ -320,10 +262,8 @@ dell'umore:
   diabete.
 \end{itemize}
 
-\begin{itemize}
 \item
   Malattie cardiovascolari
-\end{itemize}
 
 \begin{itemize}
 \item
@@ -333,12 +273,10 @@ dell'umore:
   Infarto del miocardio
 \end{itemize}
 
-\begin{itemize}
 \item
   Disturbi metabolici
 \item
   Malattie infettive
-\end{itemize}
 
 \begin{itemize}
 \item
@@ -346,10 +284,8 @@ dell'umore:
   deliranti
 \end{itemize}
 
-\begin{itemize}
 \item
   Malattie polmonari
-\end{itemize}
 
 \begin{itemize}
 \item
@@ -358,14 +294,12 @@ dell'umore:
   BPCO
 \end{itemize}
 
-\begin{itemize}
 \item
   Malattie reumatiche e immunologiche: si è visto che la depressione
   caratterizza le connettiviti soprattutto nel periodo antecedente allo
   sviluppo di malattia sotto forma di disagio psichico. Questo può
   essere importante perché se il MMG è attento ai sintomi prodromici può
   fare diagnosi precoce e trattare meglio il paziente.
-\end{itemize}
 
 \begin{itemize}
 \item
@@ -376,7 +310,6 @@ dell'umore:
   LES
 \end{itemize}
 
-\begin{itemize}
 \item
   Anemie
 \item
@@ -387,7 +320,6 @@ dell'umore:
   passaggio delle IgE attraverso la BEE.
 \item
   Malattie neurologiche
-\end{itemize}
 
 \begin{itemize}
 \item
@@ -400,7 +332,6 @@ dell'umore:
   farmaco migliore per un paziente con Parkinson e depressione
 \end{itemize}
 
-\begin{itemize}
 \item
   Patologie genito-urinarie.
 \end{itemize}
@@ -482,7 +413,12 @@ Esistono numerose malattie in comorbidità con la depressione:
 Roose nel 1992 ha dimostrato che soggetti depressi hanno un rischio di
 mortalità nel post-infarto 3,5 volte superiore rispetto ai non depressi.
 
-\includegraphics[width=4.64167in,height=3.10417in]{media/image4.jpeg}Un
+\begin{figure}[!ht]
+\centering
+	\includegraphics[width=0.8\textwidth]{42/image4.jpeg}
+	\end{figure}
+	
+Un
 disturbo depressivo insorto nel decennio precedente un evento
 cardiovascolare acuto eleva di tre volte il rischio di ischemia
 miocardica nel maschio.
@@ -524,5 +460,3 @@ l'aggressività. L'aggressività è la restituzione di una carenza di
 aggrappamento, cioè il paziente vorrebbe aggrapparsi a noi, ma non ci
 riesce e perciò ci aggredisce; per il paziente non siamo
 sufficientemente generosi nell'accudimento.
-
-\end{document}
